@@ -5,7 +5,7 @@
 ## Authors
 Sean Cleveland
 Alan Whinery
-
+Luke Nelson
 A list of contributors to the lesson can be found in [AUTHORS](AUTHORS)
 
 ## Citation
