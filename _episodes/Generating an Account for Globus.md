@@ -1,5 +1,6 @@
 ---
 title: "Generating an Account"
+---
 questions:
 - "How do I generate an account for Globus and connect it with my university?"
 objectives:
