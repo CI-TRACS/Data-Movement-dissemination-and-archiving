@@ -1,6 +1,6 @@
 ---
 title: "Introducing the Globus"
-teaching: 5
+teaching: 2
 exercises: 0
 questions:
 - "What does Globus do and how can I use it with my data??"
