@@ -1,5 +1,5 @@
----
-Title: "Creating a Globus account and transferring data"
+
+-Creating a Globus account and transferring data
 
 
 ### Prerequisite
