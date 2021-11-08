@@ -5,7 +5,7 @@ questions:
 - "What does Globus do and how can I use it with my data?"
 - "How does Rclone improve data movement and management?"
 ![Globus1](Globus1.jpg)
-![Globus and Rclone](../fig/github-create-repo-01.png)
+![Globus1](../fig/Globus1.png)
 ---
 ### Objectives
 Have a basic understanding of Globus and how to move data
