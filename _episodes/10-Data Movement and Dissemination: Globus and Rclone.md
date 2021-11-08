@@ -1,4 +1,3 @@
----
 Title: "Data Movement and Dissemination: Globus and Rclone"
 Teaching: 2
 Exercises: 2
