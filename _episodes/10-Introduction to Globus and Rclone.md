@@ -3,7 +3,7 @@ title: "Introduction to Globus and Rclone"
 teaching: 2
 exercises: 2
 questions:
-- "What does Globus do and how can I use it with my data??"
+- "What does Globus do and how can I use it with my data?"
 - "How does Rclone improve data movement and management?"
 ---
 ### Objectives
