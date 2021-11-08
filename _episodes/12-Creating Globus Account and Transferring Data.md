@@ -42,7 +42,7 @@ After you’ve signed up and logged in to Globus, you’ll begin at the File Man
 The first time you use the File Manager, all fields will be blank
 
 ### Key Concept: Collection
-A collection is a named location containing data you can access with Globus. Collections can be hosted on many different kinds of systems, including campus storage, HPC clusters, laptops, Amazon S3 buckets, Google Drive (these are “premium” connectors so seperate subscription is required), and scientific instruments.
+A collection is a named location containing data you can access with Globus. Collections can be hosted on many different kinds of systems, including campus storage, HPC clusters, laptops, Amazon S3 buckets, Google Drive (these are “premium” connectors so separate subscription is required), and scientific instruments.
 When you use Globus, you don’t need to know a physical location or details about storage. You only need a collection name. A collection allows authorized Globus users to browse and transfer files. Collections can also be used for sharing data with others and for enabling discovery by other Globus users. Globus Connect is used to host collections.
 
 
