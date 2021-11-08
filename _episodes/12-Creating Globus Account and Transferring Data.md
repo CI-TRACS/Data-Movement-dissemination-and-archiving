@@ -29,8 +29,7 @@
 - Globus Connect Personal for Linux for common x86-based distributions https://docs.globus.org/how-to/globus-connect-personal-linux
 
 - Globus Connect Personal for Windows for recent Windows versions https://docs.globus.org/how-to/globus-connect-personal-windows
-
-- Note: Once you are done installing GCP, the Globus Connect Personal agent will be running in the background. Once you disconnect from it, you can launch the application again by clicking “command+space bar” keys on Mac machine or Windows key on Windows machine and typing “globus” to select the application to restart it.
+*Note: Once you are done installing GCP, the Globus Connect Personal agent will be running in the background. Once you disconnect from it, you can launch the application again by clicking “command+space bar” keys on Mac machine or Windows key on Windows machine and typing “globus” to select the application to restart it.
 ---
 ### The File Manager
 --- 
