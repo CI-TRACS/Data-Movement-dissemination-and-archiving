@@ -1,7 +1,7 @@
 ---
 title: "Introducing the Globus"
 teaching: 2
-exercises: 1
+exercises: 2
 questions:
 - "What does Globus do and how can I use it with my data??"
 ---
@@ -14,7 +14,7 @@ questions:
 ---
 ### Key Points
 - "Globus is useful for transfering data to and from MANA at UH."
--  "Globus security is not necessarily guaranteed"
+-  "Rclone is an open source, multi threaded, command line computer program to manage or migrate content on cloud and other high latency storage. Its capabilities    include sync, transfer, crypt, cache, union, and compress data"
 ---
 ### Background
 
