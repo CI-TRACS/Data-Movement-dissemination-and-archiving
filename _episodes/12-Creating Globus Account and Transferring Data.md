@@ -56,5 +56,8 @@ This is your home directory in the MANA Globus endpoint
 - Click on “Your Collection” tab. Find the Globus Connect Personal endpoint you created earlier
 and click on it.
 
+- On the left collection, UH-HPC, select the file you would like to transfer
+- Press the "Start" button to activate the transfer the selected files (right side collection)
+- A geen panel will pop up announcing the successful submission of a transfer request
 - 
 
