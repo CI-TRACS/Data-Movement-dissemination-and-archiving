@@ -1,3 +1,18 @@
+---
+title: "Using Globus and Rclone"
+teaching: 15
+exercises: 5
+questions:
+- "When to use Globus"
+- "when to use Rclone"
+objectives:
+- "Setup Globus"
+- "Use Globus to transfer data"
+- "Setup RClone with Google Drive"
+- "Transfer files with Rclone"
+keypoints:
+- ""
+---
 # Data Transfer Workshop
 
 
