@@ -6,12 +6,12 @@
 -  Have duo mobile or other 2 factor authenticator linked to your device and UH account
 ---
 ### Creating a Globus Account Using UH Credential
- Visit www.globus.org and click "Login" at the top of the page. On the Globus login page, type in University of Hawaii. When you find it, click Continue.
- You’ll be redirected to your UH login page. Use your UH credentials to login.
- Some organizations will ask for your permission to release your account information to Globus
- Once you've logged in with your UH credentials, Globus will ask if you want to link to an existing account. If this is your first time using Globus, just "Continue"
- You may be prompted to provide additional information such as your organization and whether or not Globus will be used for commercial purposes. Click on non-profit research or educational purposes. Complete the form and click "Continue."
-Finally, you need to give Globus permission to use your identity to access information and perform actions (like file transfers) on your behalf.
+- Visit www.globus.org and click "Login" at the top of the page. On the Globus login page, type in University of Hawaii. When you find it, click Continue.
+- You’ll be redirected to your UH login page. Use your UH credentials to login.
+- Some organizations will ask for your permission to release your account information to Globus
+- Once you've logged in with your UH credentials, Globus will ask if you want to link to an existing account. If this is your first time using Globus, just "Continue"
+- You may be prompted to provide additional information such as your organization and whether or not Globus will be used for commercial purposes. Click on non-profit research or educational purposes. Complete the form and click "Continue."
+- Finally, you need to give Globus permission to use your identity to access information and perform actions (like file transfers) on your behalf.
 
 ---
 
