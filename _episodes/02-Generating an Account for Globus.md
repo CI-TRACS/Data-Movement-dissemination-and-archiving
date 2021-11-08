@@ -17,6 +17,6 @@ Globus was developed and is maintained at the University of Chicago and is used 
 -   2.)   data transfer between 2 Globus Connect Personal endpoints (eg. sharing data between your desktop and laptop)
 -   3.)   to transfer data from a Globus Connect Personal endpoint
 
-### Please Note
+### *Please Note
 - UH does not provide a Globus subscription for external collaborators 
 - Default settings may not include data sharing
