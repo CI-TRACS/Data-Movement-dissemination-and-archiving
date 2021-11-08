@@ -6,11 +6,12 @@ questions:
 - "How does Rclone improve data movement and management?"
 ---
 ### Objectives
--  Have a basic understanding of Globus and how to move data
--  Have a basic understanding of Rclone and how to use it
--  Able to Move Data to a from Mana HPC using Globus and Rclone
--  Able to Move Google Drive Data to/from Mana HPC with Rclone
--  Explain how the Globus works and how to initialize an account.
+Have a basic understanding of Globus and how to move data
+Have a basic understanding of Rclone and how to use it
+Able to Move Data to a from Mana HPC using Globus and Rclone
+Able to Move Google Drive Data to/from Mana HPC with Rclone
+Explain how the Globus works and how to initialize an account.
+
 ---
 ### Key Points
 - "Globus is useful for transfering data to and from MANA at UH."
