@@ -1,5 +1,5 @@
 ---
-Title: "Introduction to Globus and Rclone"
+Title: "Data Movement and Dissemination: Globus and Rclone"
 Teaching: 2
 Exercises: 2
 questions:
