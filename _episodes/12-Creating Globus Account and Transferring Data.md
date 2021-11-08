@@ -71,5 +71,7 @@ and click on it.
 ---
 ### Troubleshooting Transfer Experience
 - If transferred files are not listed under your activity page, try and refresh the uploaded contents at the top of the collections page
-
+---
+### Questions?
+---
 
