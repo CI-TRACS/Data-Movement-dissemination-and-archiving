@@ -15,7 +15,7 @@
 ---
 ### Advantages of Globus Connect Personal
 ---
-- With Globus Connect Personal you can share and transfer files to/from a local machine—campus server, desktop computer or laptop—even if it's behind a firewall and you don't have administrator privileges.
+With Globus Connect Personal you can share and transfer files to/from a local machine—campus server, desktop computer or laptop—even if it's behind a firewall and you don't have administrator privileges.
 - 1.) Dramatically increases data transfer speeds over scp and other transfer tools
 - 2.) Automatically suspends transfers when computer sleeps and resumes when turned on
 - 3.) Installs in seconds using native operating system install packages.
