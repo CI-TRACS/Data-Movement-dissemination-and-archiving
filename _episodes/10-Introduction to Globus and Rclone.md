@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Globus and Rclone"
+Title: "Introduction to Globus and Rclone"
 teaching: 2
 exercises: 2
 questions:
