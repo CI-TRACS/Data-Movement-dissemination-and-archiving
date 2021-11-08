@@ -20,7 +20,7 @@ life_cycle: "pre-alpha"
 
 
 episode_order:
-  - globus_and_rclone
+  - 00-globus-and-rclone
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
