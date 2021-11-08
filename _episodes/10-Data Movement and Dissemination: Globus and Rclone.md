@@ -6,6 +6,8 @@ questions:
 - "How does Rclone improve data movement and management?"
 ![Globus1](Globus1.jpg)
 ![Globus1](../Globus1.png)
+![Globus1](/Screenshots/Globus1.jpg)
+
 ---
 ### Objectives
 Have a basic understanding of Globus and how to move data
