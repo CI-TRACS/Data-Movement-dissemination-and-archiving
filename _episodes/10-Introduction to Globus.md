@@ -1,10 +1,10 @@
 ---
-title: "Introducing the Globus"
+title: "Introduction to Globus and Rclone"
 teaching: 2
 exercises: 2
 questions:
 - "What does Globus do and how can I use it with my data??"
-- "How does RClone improve data movement and management?"
+- "How does Rclone improve data movement and management?"
 ---
 ### Objectives
 -  Have a basic understanding of Globus and how to move data
