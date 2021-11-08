@@ -4,8 +4,7 @@ Exercises: 2
 questions:
 - "What does Globus do and how can I use it with my data?"
 - "How does Rclone improve data movement and management?"
-![Globus1](Globus1.jpg)
-![Globus1](../Globus1.png)
+
 ![Globus1](../Screenshots/Globus1.jpg)
 
 ---
