@@ -1,5 +1,5 @@
 
-### Creating a Globus account and transferring data
+### Creating a Globus Account and Transferring Data
 ---
 
 ### Prerequisite
