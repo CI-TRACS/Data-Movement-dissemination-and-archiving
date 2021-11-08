@@ -58,6 +58,10 @@ and click on it.
 
 - On the left collection, UH-HPC, select the file you would like to transfer
 - Press the "Start" button to activate the transfer the selected files (right side collection)
-- A geen panel will pop up announcing the successful submission of a transfer request
-- 
+- A green panel will pop up announcing the successful submission of a transfer request
+- Click "Activity" in the command menu on the left side of the page, the Activity page should present a checked transfer under recent activity
+---
+### Troubleshooting Transfer Experience
+- If transferred files are not listed under your activity page, try and refresh the uploaded contents at the top of the collections page
+
 
