@@ -49,4 +49,12 @@ When you use Globus, you don’t need to know a physical location or details abo
 ### Accessing a Collection
 - Click on 'Collection Field' at the top of the 'File Manager' page and enter "UH-HPC" . Globus will list collections matching your search. Choose UH-HPC
 - Globus will connect to the UH-HPC collection and display the default directory /~/
-* This is your home directory in the MANA Globus endpoint
+This is your home directory in the MANA Globus endpoint
+---
+### Request a File Transfer
+- A new collection panel will open, with a "Search” field at the top of the panel. Click on it.
+- Click on “Your Collection” tab. Find the Globus Connect Personal endpoint you created earlier
+and click on it.
+
+- 
+
