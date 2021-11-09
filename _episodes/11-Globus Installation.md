@@ -43,6 +43,7 @@ Visit www.globus.org and click "Login" at the top of the page. On the Globus log
 - Finally, you need to give Globus permission to use your identity to access information and perform actions (like file transfers) on your behalf.
 
 <img src="../assets/img/globus_rclone/globus_and_rclone9.png" width=500px />
+
 ---
 
 # Globus Connect Personal
