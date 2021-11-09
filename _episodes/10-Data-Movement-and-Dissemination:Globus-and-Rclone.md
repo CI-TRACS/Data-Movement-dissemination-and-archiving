@@ -1,10 +1,9 @@
 ---
-title: "Data Movement and Dissemination: Globus and Rclone"
-teaching: 5
-exercises: 2
-questions:
+title: "Data Movement and Dissemination: Introduction to Globus"
+teaching: 4
+exercises: 1
+question:
 - "What does Globus do and how can I use it with my data?"
-- "How does Rclone improve data movement and management?"
 objectives:
 - "Have a basic understanding of Globus and how to move data"
 - "Have a basic understanding of Rclone and how to use it"
