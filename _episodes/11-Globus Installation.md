@@ -20,3 +20,10 @@ Visit www.globus.org and click "Login" at the top of the page. On the Globus log
 # *Please Note
 - UH does not provide a Globus subscription for external collaborators 
 - Default settings may not include data sharing
+
+---
+<img src="../assets/img/globus_rclone/globus_and_rclone5.png" width=500px />
+
+# You’ll be redirected to your UH login page. Use your UH credentials to login.
+
+<img src="../assets/img/globus_rclone/globus_and_rclone6.png" width=500px />
