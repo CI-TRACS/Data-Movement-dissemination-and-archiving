@@ -19,6 +19,7 @@ objectives:
 
 <img src="../assets/img/globus_rclone/globus_and_rclone1.png" width=414px />
 ---
+
 ### Background
 
 Globus can use several different systems to move data
