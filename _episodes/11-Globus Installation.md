@@ -38,11 +38,15 @@ Visit www.globus.org and click "Login" at the top of the page. On the Globus log
 
 <img src="../assets/img/globus_rclone/globus_and_rclone8.png" width=500px />
 
+---
+
 - Finally, you need to give Globus permission to use your identity to access information and perform actions (like file transfers) on your behalf.
 
 <img src="../assets/img/globus_rclone/globus_and_rclone9.png" width=500px />
+---
 
 # Globus Connect Personal
+
 
 <span style="color:#595959">Globus Connect Personal turns your laptop or other personal computer into a Globus endpoint with just a few clicks\. With Globus Connect Personal you can share and transfer files to/from a local machine—campus server\, desktop computer or laptop—even if it's behind a firewall and you don't have administrator privileges\.</span>
 
