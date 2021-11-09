@@ -20,7 +20,7 @@ objectives:
 <img src="../assets/img/globus_rclone/globus_and_rclone1.png" width=414px />
 
 
-### Background
+### Purpose of Globus 
 
 Globus can use several different systems to move data
 'Laptop? HPC cluster? Cloud storage? Tape archive? Access them all using just a web browser.
@@ -30,6 +30,8 @@ Data stored at a different institution? At a supercomputing facility? All you ne
 Globus is a service that makes it easy to move, sync, and share large amounts of data.
 
 Globus will manage file transfers, monitor performance, retry failures, recover from faults automatically when possible, and report the status of your data transfer.
+
+### Background
 
 Globus uses GridFTP for more reliable and high-performance file transfer, and will queue file transfers to be performed asynchronously in the background.
 
