@@ -1,10 +1,11 @@
 ---
-title: "Globus Installation"
-teaching: 1
-exercises: 1
+title: "Globus UH Login and Connect Personal Installation"
+teaching: 2
+exercises: 2
 question:
 - "How do I install Globus on my PC, Mac, Linux, or Unix?"
 objectives:
+- "Connect your UH account with Globus"
 - "Install Globus on to your system"
 - keypoints:
 - "Prerequisite includes a dual factor authenticator for your UH ID"
