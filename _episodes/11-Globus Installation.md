@@ -1,5 +1,5 @@
 ---
-title: "Creating Globus Account with UH Login and Install Globus Connect Personal Installation"
+title: "Creating Globus Account/Install Globus Connect Personal Installation"
 teaching: 2
 exercises: 2
 question:
