@@ -11,10 +11,9 @@ objectives:
 - "Able to Move Data to a from Mana HPC using Globus and Rclone"
 - "Able to Move Google Drive Data to/from Mana HPC with Rclone"
 - "Explain how the Globus works and how to initialize an account."
----
-### Key Points
+- keypoints:
 - "Globus is useful for transfering data to and from MANA at UH."
--  "Rclone is an open source, multi threaded, command line computer program to manage or migrate content on cloud and other high latency storage. Its capabilities    include sync, transfer, crypt, cache, union, and compress data"
+- "Rclone is an open source, multi threaded, command line computer program to manage or migrate content on cloud and other high latency storage. Its capabilities    include sync, transfer, crypt, cache, union, and compress data"
 ---
 ### Background
 
@@ -23,3 +22,6 @@ Globus can use several different systems to move data
 
 Data stored at a different institution? At a supercomputing facility? All you need is your campus login'
 
+<img src="../assets/img/globus_rclone/globus_and_rclone0.png" width=500px />
+
+<img src="../assets/img/globus_rclone/globus_and_rclone1.png" width=414px />
