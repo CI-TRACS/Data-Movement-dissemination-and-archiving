@@ -17,6 +17,8 @@ objectives:
 
 <img src="../assets/img/globus_rclone/globus_and_rclone1.png" width=414px />
 
+<img src="../assets/img/globus_rclone/globus_and_rclone4.png" width=500px />
+
 
 # Purpose of Globus 
 
