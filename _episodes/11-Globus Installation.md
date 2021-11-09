@@ -31,6 +31,7 @@ Visit www.globus.org and click "Login" at the top of the page. On the Globus log
 ---
 
 <img src="../assets/img/globus_rclone/globus_and_rclone7.png" width=500px />
+
 ---
 
 - You may be prompted to provide additional information such as your organization and whether or not Globus will be used for commercial purposes. Click on non-profit research or educational purposes. Complete the form and click "Continue."
