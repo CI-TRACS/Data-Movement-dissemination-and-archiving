@@ -1,8 +1,9 @@
 ---
-title: "Globus UH Login and Connect Personal Installation"
+title: "Creating Globus Account with UH Login and Install Globus Connect Personal Installation"
 teaching: 2
 exercises: 2
 question:
+- "How do I create a Globus account using your UH credential?"
 - "How do I install Globus Connect Personal on my PC, Mac, Linux, or Unix?"
 objectives:
 - "Connect your UH account with Globus"
@@ -10,8 +11,14 @@ objectives:
 - keypoints:
 - "Prerequisite includes a dual factor authenticator for your UH ID"
 ---
+### Transfering Files with Globus
 
+Visit www.globus.org and click "Login" at the top of the page. On the Globus login page, type in University of Hawaii. When you find it, click Continue.
 
-### *Please Note
+<span style="color:#595959">Visit</span>  <span style="color:#595959"> _[www\.globus\.org](https://www.globus.org/)_ </span>  <span style="color:#595959">and click "Login" at the top of the page\. On the Globus login page\, type in University of Hawaii\. When you find it\, click Continue\.</span>
+
+<img src="../assets/img/globus_rclone/globus_and_rclone5.png" width=500px />
+
+# *Please Note
 - UH does not provide a Globus subscription for external collaborators 
 - Default settings may not include data sharing
