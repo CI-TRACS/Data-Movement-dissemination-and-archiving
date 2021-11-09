@@ -15,8 +15,6 @@ objectives:
 
 Visit www.globus.org and click "Login" at the top of the page. On the Globus login page, type in University of Hawaii. When you find it, click Continue.
 
-<span style="color:#595959">Visit</span>  <span style="color:#595959"> _[www\.globus\.org](https://www.globus.org/)_ </span>  <span style="color:#595959">and click "Login" at the top of the page\. On the Globus login page\, type in University of Hawaii\. When you find it\, click Continue\.</span>
-
 <img src="../assets/img/globus_rclone/globus_and_rclone5.png" width=500px />
 
 # *Please Note
