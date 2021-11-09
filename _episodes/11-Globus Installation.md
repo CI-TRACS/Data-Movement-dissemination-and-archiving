@@ -45,17 +45,17 @@ Visit www.globus.org and click "Login" at the top of the page. On the Globus log
 
 <span style="color:#595959">Globus Connect Personal turns your laptop or other personal computer into a Globus endpoint with just a few clicks\. With Globus Connect Personal you can share and transfer files to/from a local machine—campus server\, desktop computer or laptop—even if it's behind a firewall and you don't have administrator privileges\.</span>
 
-<span style="color:#595959">Globus Connect Personal puts the power of Globus on your computer\.</span>
+- Globus Connect Personal puts the power of Globus on your computer\.</span>
 
-<span style="color:#595959">Dramatically increases data transfer speeds over scp and other transfer tools\.</span>
+- Dramatically increases data transfer speeds over scp and other transfer tools\.</span>
 
-<span style="color:#595959">Automatically suspends transfers when computer sleeps and resumes when turned on\.</span>
+- Automatically suspends transfers when computer sleeps and resumes when turned on\.</span>
 
-<span style="color:#595959">Installs in seconds using native operating system install packages\.</span>
+- Installs in seconds using native operating system install packages\.</span>
 
-<span style="color:#595959">Works with firewalls that block incoming connections\, and behind most NATs\.</span>
+- Works with firewalls that block incoming connections\, and behind most NATs\.</span>
 
-<span style="color:#595959">Uses proven Globus infrastructure for security and authentication\.</span>
+- Uses proven Globus infrastructure for security and authentication\.</span>
 
 # Installation Instructions
 
