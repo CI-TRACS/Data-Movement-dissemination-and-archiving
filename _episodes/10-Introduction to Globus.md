@@ -1,5 +1,5 @@
 ---
-title: "Data Movement and Dissemination: Introduction to Globus"
+title: "Introduction to Globus"
 teaching: 4
 exercises: 1
 question:
