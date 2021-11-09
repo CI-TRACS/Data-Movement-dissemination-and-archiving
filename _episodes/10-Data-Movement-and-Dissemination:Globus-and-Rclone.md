@@ -37,3 +37,8 @@ Globus uses GridFTP for more reliable and high-performance file transfer, and wi
 
 Globus was developed and is maintained at the University of Chicago and is used extensively at supercomputer centers and major research facilities. https://globus.org
 
+# When To use Globus
+
+To transfer or share data between two Globus managed endpoints \(e\.g\. two multi\-user systems at different universities\, each running a Globus server\)
+
+To transfer data between a managed endpoint \(e\.g\. UH\-HPC\) to a Globus Connect Personal endpoint \(e\.g\. your desktop\)
