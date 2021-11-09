@@ -3,7 +3,7 @@ title: "Globus UH Login and Connect Personal Installation"
 teaching: 2
 exercises: 2
 question:
-- "How do I install Globus on my PC, Mac, Linux, or Unix?"
+- "How do I install Globus Connect Personal on my PC, Mac, Linux, or Unix?"
 objectives:
 - "Connect your UH account with Globus"
 - "Install Globus on to your system"
