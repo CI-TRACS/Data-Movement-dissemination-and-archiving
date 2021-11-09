@@ -29,6 +29,8 @@ Globus is a service that makes it easy to move, sync, and share large amounts of
 
 Globus will manage file transfers, monitor performance, retry failures, recover from faults automatically when possible, and report the status of your data transfer.
 
+<img src="../assets/img/globus_rclone/globus_and_rclone2.jpg" width=500px />
+
 # Background
 
 Globus uses GridFTP for more reliable and high-performance file transfer, and will queue file transfers to be performed asynchronously in the background.
