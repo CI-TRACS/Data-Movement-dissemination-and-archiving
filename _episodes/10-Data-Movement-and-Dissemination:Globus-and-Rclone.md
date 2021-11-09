@@ -6,7 +6,6 @@ question:
 - "What does Globus do and how can I use it with my data?"
 objectives:
 - "Have a basic understanding of Globus and how to move data"
-- "Have a basic understanding of Rclone and how to use it"
 - "Able to Move Data to a from Mana HPC using Globus and Rclone"
 - "Able to Move Google Drive Data to/from Mana HPC with Rclone"
 - "Explain how the Globus works and how to initialize an account."
