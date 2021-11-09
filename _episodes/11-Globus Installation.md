@@ -1,17 +1,13 @@
 ---
 title: "Globus Installation"
-teaching: 4
+teaching: 1
 exercises: 1
 question:
-- "What does Globus do and how can I use it with my data?"
+- "How do I install Globus on my PC, Mac, Linux, or Unix?"
 objectives:
-- "Have a basic understanding of Globus and how to move data"
-- "Able to Move Data to a from Mana HPC using Globus and Rclone"
-- "Able to Move Google Drive Data to/from Mana HPC with Rclone"
-- "Explain how the Globus works and how to initialize an account."
+- "Install Globus on to your system"
 - keypoints:
-- "Globus is useful for transfering data to and from MANA at UH."
-- "Rclone is an open source, multi threaded, command line computer program to manage or migrate content on cloud and other high latency storage. Its capabilities    include sync, transfer, crypt, cache, union, and compress data"
+- "Prerequisite includes a dual factor authenticator for your UH ID"
 ---
 
 
