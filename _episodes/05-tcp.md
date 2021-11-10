@@ -27,7 +27,7 @@ __If we wait for and acknowledgment for each packet before sending another\, the
 
 __Most packets have max size of about 1500 bytes, so this limits throughput to about 0\.6 Megabits/sec on this 20 mS round-trip-time path__
 
-{% include figure.html url="" =
+{% include figure.html url=""
    file="/fig/ep53.png" width=500px alt="" caption="" %}
 
 __If we establish a rule that 10 packets can be sent before any acknowledgment is received by the sender, then 15,000 bytes can be sent every 20 milliseconds, or 6 Megabits per second.__
@@ -61,10 +61,10 @@ __In practice, this__  __windows__  __size is expressed as 2\.4 Megabytes\. Usin
 >   * A good resource for research data transfer information including TCP stuff
 {: .callout}
 
-{% include figure.html url="" max-width="50%"
+{% include figure.html url="" 
    file="/fig/ep55.png" width=500px alt="" caption="" %}
 
-{% include figure.html url="" max-width="50%"
+{% include figure.html url="" 
    file="/fig/ep56.png" width=500px alt="" caption="" %}
 
 _Bursting_  __--__
@@ -140,8 +140,6 @@ Most transfers over 10 Gbps is using multiple connections
 Globus GridFTP opens on the order of several hundred connections at once.
 
 {% include figure.html url=""
-   file="/fig/ep512.jpg" width=500px alt="" caption="" %}
-
-_PUBLIC DOMAIN IMAGE: https://commons.wikimedia.org/wiki/File:Goodwood2007-121_The_Blue_Flame.jpg_
+   file="/fig/ep512.jpg" width=500px alt="" caption="PUBLIC DOMAIN IMAGE: https://commons.wikimedia.org/wiki/File:Goodwood2007-121_The_Blue_Flame.jpg" %}
 
 {% include links.md %}
