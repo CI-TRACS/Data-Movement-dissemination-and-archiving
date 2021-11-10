@@ -1,14 +1,13 @@
 ---
-title: "Ep1"
-teaching: 1
-exercises: 1
+title: "Introduction to Scientific Data Networks"
+teaching: 10
+exercises: 0
 question:
 -
 objectives:
 -
 ---
-# Transferring Data from and to Mana Using Globus Connect Personal
-### Using Rclone
+# Introduction to Scientific Data Networks
 ---
 
 # Groundwork
