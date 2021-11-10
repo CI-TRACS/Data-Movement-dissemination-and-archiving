@@ -21,10 +21,10 @@ By the end of this workshop attendees will know how to:
 {% comment %} This is a comment in Liquid {% endcomment %}
 
 > ## Prerequisites
-> Basic SSH and Command line experience. We recommend the participants to go through shell-novice if you are new to the command-line
-> Have an account on Mana
-> Have UH Duo/MFA enabled
-> Have a modern web browser
+> * Basic SSH and Command line experience. We recommend the participants to go through shell-novice if you are new to the command-line
+> * Have an account on Mana
+> * Have UH Duo/MFA enabled
+> * Have a modern web browser
 {: .prereq}
 
 {% include links.md %}
