@@ -12,9 +12,6 @@ objectives:
 - "Globus is useful for transfering data to and from MANA at UH."
 - "Rclone is an open source, multi threaded, command line computer program to manage or migrate content on cloud and other high latency storage. Its capabilities    include sync, transfer, crypt, cache, union, and compress data"
 ---
-<img src="../assets/img/globus_rclone/globus_and_rclone0.png" width=500px />
-
-<img src="../assets/img/globus_rclone/globus_and_rclone1.png" width=414px />
 
 <img src="../assets/img/globus_rclone/globus_and_rclone4.png" width=500px />
 
