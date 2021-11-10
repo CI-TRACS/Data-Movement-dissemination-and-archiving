@@ -1,14 +1,11 @@
 ---
-title: "Ep5"
-teaching: 1
-exercises: 1
+title: "Transmission Control Protocol (TCP)"
+teaching: 10
+exercises: 0
 question:
 -
 objectives:
 -
----
-# Transferring Data from and to Mana Using Globus Connect Personal
-### Using Rclone
 ---
 
 # Why TCP Acts As It Does
