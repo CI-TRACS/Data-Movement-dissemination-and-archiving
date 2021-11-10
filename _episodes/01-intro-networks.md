@@ -79,10 +79,14 @@ Making data transfers perform well can be somewhat deep andcomplicated\, but it'
 * Exchanges
   * Most often built as a place wheredifferentnetworks within a region can interconnect, so that their traffic doesn't take the long way around
 
-  {% include figure.html url=""
-     file="/fig/ep11.png" width=500px alt="" caption="" %}
+> ## Commodity
+>
+> {% include figure.html url="" file="/fig/ep11.png" width=500px alt="" caption="Commodity" %}
+{: .callout}
 
-  {% include figure.html url="" 
-        file="/fig/ep12.png" width=500px alt="" caption="" %}
+> ## REN Path
+> 
+>  {% include figure.html url=""  file="/fig/ep12.png" width=500px alt="" caption="REN path" %}
+{: .callout}
 
 {% include links.md %}
