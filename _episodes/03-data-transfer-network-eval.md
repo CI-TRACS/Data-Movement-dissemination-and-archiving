@@ -68,3 +68,5 @@ https://docs\.perfsonar\.net/install\_options\.html
 * Distinct from testing between your location and a specific location
 * There are Ookla Speedtest servers at some universities\, and if you test from a U\. Hawaii campus to those servers\, they should use REN paths
 * Typically\, an ISP hosted server will use commodity paths
+
+{% include links.md %}
