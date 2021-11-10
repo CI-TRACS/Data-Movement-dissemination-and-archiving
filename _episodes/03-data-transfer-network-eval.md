@@ -1,14 +1,11 @@
 ---
-title: "Ep3"
-teaching: 1
-exercises: 1
+title: "Data Transfer Evaluation Of The Network"
+teaching: 10
+exercises: 0
 question:
 -
 objectives:
 -
----
-# Transferring Data from and to Mana Using Globus Connect Personal
-### Using Rclone
 ---
 
 # Network (Only) Evaluation
