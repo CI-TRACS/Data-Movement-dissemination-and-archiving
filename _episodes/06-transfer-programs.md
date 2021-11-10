@@ -30,7 +30,7 @@ objectives:
 >  * Very versatile \(Russian origin\) program with features such as mirroring and parallel transfers
 {: .callout}
 
-{% include figure.html url="" max-width="50%"
+{% include figure.html url=""
    file="/fig/ep60.png" width=500px alt="" caption="" %}
 
 {% include links.md %}
