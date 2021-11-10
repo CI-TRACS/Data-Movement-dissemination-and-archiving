@@ -1,14 +1,11 @@
 ---
-title: "Ep6"
-teaching: 1
-exercises: 1
+title: "Transfer Programs"
+teaching: 10
+exercises: 0
 question:
 -
 objectives:
 -
----
-# Transferring Data from and to Mana Using Globus Connect Personal
-### Using Rclone
 ---
 
 # $0.02 About Transfer Programs
