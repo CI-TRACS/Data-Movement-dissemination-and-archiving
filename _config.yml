@@ -21,6 +21,10 @@ life_cycle: "pre-alpha"
 
 episode_order:
   - 00-globus-and-rclone
+  - 10-Introduction to Globus
+  - 11-Globus Installation
+  - 12-Transferring Data with Globus
+
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
