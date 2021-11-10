@@ -5,7 +5,7 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 ---
 
 ## Synopsis
-This workshop is an introduction to scientific data transfer.  This will cover different data transfer tools like ftp, Rclone and Globus for moving data
+This workshop will be an introduction to understanding the challenges and options in moving scientific data over the network.  In particular, attendees will learn about some of the different network infrastructure and tools available and the use cases to apply them towards and highlight any disadvantages or drawbacks to a particular technology. Lessons will also address what to do if a transfer is experiencing less than expected performance, potential common contributors to a transfer bottleneck and when and who to ask for assistance will also be covered. Different data transfer tools like SFTP, rsync and Globus for moving data will be covered in hands-on exercises. 
 
 ## Learning Outcomes:
 By the end of this workshop attendees will know how to:
@@ -14,11 +14,6 @@ By the end of this workshop attendees will know how to:
 * Demonstrate the ability to identify, communicate and mitigate potential bottlenecks in collaboration with campus cyberinfrastructure and network operators.
 * Transfer data using Globus
 * Transfer data using Rclone
-
-
-<!-- this is an html comment -->
-
-{% comment %} This is a comment in Liquid {% endcomment %}
 
 > ## Prerequisites
 > * Basic SSH and Command line experience. We recommend the participants to go through shell-novice if you are new to the command-line
