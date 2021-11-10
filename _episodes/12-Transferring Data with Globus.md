@@ -1,4 +1,16 @@
-
+---
+title: "Creating a Globus Account and Transferring Data"
+teaching: 1
+exercises: 1
+question:
+- "How do I create a Globus account using your UH credential?"
+- "How do I install Globus Connect Personal on my PC, Mac, Linux, or Unix?"
+objectives:
+- "Connect your UH account with Globus"
+- "Install Globus on to your system"
+- keypoints:
+- "Prerequisite includes a dual factor authenticator for your UH ID"
+---
 ### Creating a Globus Account and Transferring Data
 ---
 
