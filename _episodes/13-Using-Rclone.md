@@ -1,4 +1,14 @@
-
+---
+title: "Using Rclone"
+teaching: 1
+exercises: 1
+question:
+- "How do I move data from my machine to Globus?"
+- "How do I move data from Globus to my machine?"
+objectives:
+- "Move sample data from a repository to Globus, then to your computer to Globus"
+---
+# Transferring Data from and to Mana Using Globus Connect Personal
 ### Using Rclone
 ---
 
