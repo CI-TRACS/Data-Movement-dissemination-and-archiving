@@ -16,6 +16,7 @@ objectives:
 # Hawaii Guam Loop
 
 > ## 21,897 km 100 Gbps Path
+> 
 {: .callout}
 
 <span style="color:#FFFFFF">2 performance test boxes in Hawaii, connected to each other via GOREX</span>
@@ -37,6 +38,7 @@ objectives:
 
 
 > ## MAX → GOREX → Hawaii
+> 
 >  * 21\,897 km one way
 >  * 284ms round trip time
 >  * round trip is longer in distance than circumnavigation at equator
