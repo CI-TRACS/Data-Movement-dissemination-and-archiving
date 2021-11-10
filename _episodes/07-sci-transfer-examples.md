@@ -1,14 +1,11 @@
 ---
-title: "Ep7"
-teaching: 1
-exercises: 1
+title: "Scientific Data Transfer Examples"
+teaching: 10
+exercises: 0
 question:
 -
 objectives:
 -
----
-# Transferring Data from and to Mana Using Globus Connect Personal
-### Using Rclone
 ---
 
 # Proofs Of Concept
