@@ -56,3 +56,5 @@ Copper distribution in    >> data center
 A pair of glass fiber LC connectors\, andthe10Gbps Ethernet card which connects to the fiber\.
 
 The infrared laser that transmits over the fiber is visible in the upper connector\. The light is visible to my phone camera\, but not to the naked eye\.
+
+{% include links.md %}

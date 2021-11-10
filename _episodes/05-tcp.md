@@ -143,3 +143,5 @@ Globus GridFTP opens on the order of several hundred connections at once\.
    file="/fig/ep512.jpg" width=500px alt="" caption="" %}
 
 _PUBLIC DOMAIN IMAGE: https://commons\.wikimedia\.org/wiki/File:Goodwood2007\-121\_The\_Blue\_Flame\.jpg_
+
+{% include links.md %}
