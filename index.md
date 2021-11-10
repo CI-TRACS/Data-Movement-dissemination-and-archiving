@@ -3,6 +3,9 @@ layout: lesson
 root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
+<img src="/assets/img/globus_rclone/globus_and_rclone0.png" width=500px />
+
+<img src="/assets/img/globus_rclone/globus_and_rclone1.png" width=414px />
 
 ## Synopsis
 This workshop will be an introduction to understanding the challenges and options in moving scientific data over the network.  In particular, attendees will learn about some of the different network infrastructure and tools available and the use cases to apply them towards and highlight any disadvantages or drawbacks to a particular technology. Lessons will also address what to do if a transfer is experiencing less than expected performance, potential common contributors to a transfer bottleneck and when and who to ask for assistance will also be covered. Different data transfer tools like SFTP, rsync and Globus for moving data will be covered in hands-on exercises. 
