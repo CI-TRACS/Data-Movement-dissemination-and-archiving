@@ -8,7 +8,6 @@ objectives:
 -
 ---
 # Introduction to Scientific Data Networks
----
 
 # Groundwork
 
