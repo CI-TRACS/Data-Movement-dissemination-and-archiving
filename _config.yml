@@ -23,7 +23,7 @@ episode_order:
   - 01-intro-networks
   - 02-networks
   - 03-data-transfer-network-eval
-  - 04-process-queues
+  - 04-processes-queues
   - 05-tcp
   - 06-transfer-programs
   - 07-sci-transfer-examples
