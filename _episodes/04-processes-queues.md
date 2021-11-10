@@ -18,11 +18,7 @@ Data waits in queues for a chance to be transmitted further
 {: .callout}
 
 {% include figure.html url="" 
-   file="/fig/ep40.jpg" width=500px alt="" caption="" %}
-
-<span style="color:#202122"> __Attribution:__ </span>  <span style="color:#202122"> __© Vulphere / Wikimedia Commons / CC BY 4\.0__ </span>
-
-<span style="color:#202122"> __https://creativecommons\.org/licenses/by/4\.0/deed\.en__ </span>
+   file="/fig/ep40.jpg" width=500px alt="" caption=" Attribution: © Vulphere Wikimedia Commons CC BY 4.0 https://creativecommons.org/licenses/by/4.0/deed.en" %}
 
 {% include figure.html url="" 
    file="/fig/ep41.png" width=500px alt="" caption="" %}
