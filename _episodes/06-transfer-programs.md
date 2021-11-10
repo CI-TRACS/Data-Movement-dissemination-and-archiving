@@ -27,3 +27,5 @@ objectives:
 
 {% include figure.html url="" max-width="50%"
    file="/fig/ep60.png" width=500px alt="" caption="" %}
+
+{% include links.md %}
