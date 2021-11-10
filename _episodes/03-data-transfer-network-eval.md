@@ -13,6 +13,7 @@ objectives:
 # Throughput testing
 
 > ##  Iperf3 (as distinct from "iperf" which is v2 or less)
+> 
 >  * [https://software.es.net/iperf/](https://software.es.net/iperf/)
 >  * [https://github.com/esnet/iperf](https://github.com/esnet/iperf)
 >  * Pre-compiled binaries for (everything)
@@ -20,6 +21,7 @@ objectives:
 {: .callout}
 
 > ## nuttcp
+> 
 >  * [http://nuttcp.org/]([http://nuttcp.org/)
 >  * Much overlap with iperf3
 >  * Allows "3rd party" operation where one machine can initiate tests between 2 other machines
@@ -28,10 +30,11 @@ objectives:
 # perfSONAR test nodes
 
 > ## Provides test endpoints
+> 
 >  * iperf3
 >  * owping/ping
 >  * traceroute/tracepath
-
+: .callout}
 * Academic and research centric
 * Many servers around the world
 * Multiple servers within UH Net
@@ -52,6 +55,7 @@ objectives:
 * Take this code and drop it into a directory on any web server
 * It will provide a browser-based throughput estimate for a path
 
+>
 >* I have one in my house
 >* UH has one on Manoa Campus
 {: .callout}
@@ -71,7 +75,7 @@ objectives:
 * Also offers a command line version
   * [https://www.speedtest.net/apps/cli](https://www.speedtest.net/apps/cli)
     * Which could be used to test from a remote machine via a terminal interface
-
+>
 >* Important to recognize that it focuses on testing your tester's Internet connectivity, possibly from multiple server locations
 >* Distinct from testing between your location and a specific location
 >* There are Ookla Speedtest servers at some universities, and if you test from a U. Hawaii campus to those servers, they should use REN paths
