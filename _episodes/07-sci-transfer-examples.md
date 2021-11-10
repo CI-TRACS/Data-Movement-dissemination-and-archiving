@@ -40,7 +40,8 @@ objectives:
   * round trip is longer in distance than circumnavigation at equator
 
 {% include figure.html url="" max-width="50%"
-   file="/fig/ep72.png" width=500px />
+   file="/fig/ep72.png" width=500px alt="" caption="" %}
+
 
 __16 parallel wget\, each moving 32\, 2GB files__
 
