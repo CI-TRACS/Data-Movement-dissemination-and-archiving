@@ -34,7 +34,8 @@ objectives:
 
 <img src="../assets/img/globus_rclone/globus_and_rclone12.png" width=500px />
 
-# Globus will connect to the UH-HPC collection and display the default directory, /~/.  This is your home directory in the Mana Globus endpoint. Click on “Transfer or Sync to”.
+# Globus will connect to the UH-HPC collection and display the default directory, /~/.  
+- This is your home directory in the Mana Globus endpoint. Click on “Transfer or Sync to”.
 
 <img src="../assets/img/globus_rclone/globus_and_rclone13.png" width=500px />
 
@@ -79,7 +80,7 @@ With Globus Connect Personal you can share and transfer files to/from a local ma
 - 4.) Uses proven Globus infrastructure for security and authentication.
 - 5.) Works with firewalls that block incoming connections, and behind most NATs.
 ---
-### Installing Globus Connect Personal
+# Installing Globus Connect Personal
 ---
 - Globus Connect Personal for Mac for Mac OS X 10.7 or higher (Intel only) https://docs.globus.org/how-to/globus-connect-personal-mac
 
@@ -90,7 +91,7 @@ With Globus Connect Personal you can share and transfer files to/from a local ma
 *Note: Once you are done installing GCP, the Globus Connect Personal agent will be running in the background. Once you disconnect from it, you can launch the application again by clicking “command+space bar” keys on Mac machine or Windows key on Windows machine and typing “globus” to select the application to restart it.
 
 ---
-### The File Manager
+# The File Manager
 --- 
 After you’ve signed up and logged in to Globus, you’ll begin at the File Manager.
 
@@ -98,17 +99,17 @@ After you’ve signed up and logged in to Globus, you’ll begin at the File Man
 
 The first time you use the File Manager, all fields will be blank
 
-### Key Concept: Collection
+# Key Concept: Collection
 A collection is a named location containing data you can access with Globus. Collections can be hosted on many different kinds of systems, including campus storage, HPC clusters, laptops, Amazon S3 buckets, Google Drive (these are “premium” connectors so separate subscription is required), and scientific instruments.
 When you use Globus, you don’t need to know a physical location or details about storage. You only need a collection name. A collection allows authorized Globus users to browse and transfer files. Collections can also be used for sharing data with others and for enabling discovery by other Globus users. Globus Connect is used to host collections.
 
 --- 
-### Accessing a Collection
+# Accessing a Collection
 - Click on 'Collection Field' at the top of the 'File Manager' page and enter "UH-HPC" . Globus will list collections matching your search. Choose UH-HPC
 - Globus will connect to the UH-HPC collection and display the default directory /~/
 This is your home directory in the MANA Globus endpoint
 ---
-### Request a File Transfer
+# Request a File Transfer
 - A new collection panel will open, with a "Search” field at the top of the panel. Click on it.
 - Click on “Your Collection” tab. Find the Globus Connect Personal endpoint you created earlier
 and click on it.
@@ -118,7 +119,7 @@ and click on it.
 - A green panel will pop up announcing the successful submission of a transfer request
 - Click "Activity" in the command menu on the left side of the page, the Activity page should present a checked transfer under recent activity
 ---
-### Troubleshooting Transfer Experience
+# Troubleshooting Transfer Experience
 - If transferred files are not listed under your activity page, try and refresh the uploaded contents at the top of the collections page
 ---
 ### Questions?
