@@ -34,7 +34,8 @@ objectives:
 >  * iperf3
 >  * owping/ping
 >  * traceroute/tracepath
-: .callout}
+{: .callout}
+
 * Academic and research centric
 * Many servers around the world
 * Multiple servers within UH Net
