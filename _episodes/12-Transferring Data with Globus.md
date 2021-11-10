@@ -10,11 +10,13 @@ objectives:
 ---
 # Transferring Data from and to Mana Using Globus Connect Personal
 
-# The File ManagerAfter you’ve signed up and logged in to Globus, you’ll begin at the File Manager.
+# The File Manager
+After you’ve signed up and logged in to Globus, you’ll begin at the File Manager.
 
 <img src="../assets/img/globus_rclone/globus_and_rclone10.png" width=500px />
+---
 
-# The first time you use the File Manager, all fields will be blank.
+The first time you use the File Manager, all fields will be blank.
 
 <img src="../assets/img/globus_rclone/globus_and_rclone11.png" width=500px />
 
@@ -32,9 +34,13 @@ objectives:
 
 <img src="../assets/img/globus_rclone/globus_and_rclone12.png" width=500px />
 
-# Globus will connect to the UH-HPC collection and display the default directory, /~/.  This is your home directory in the Mana Globus endpoint. Click on “Transfer or Sync to”.
+--- 
+
+Globus will connect to the UH-HPC collection and display the default directory, /~/.  This is your home directory in the Mana Globus endpoint. Click on “Transfer or Sync to”.
 
 <img src="../assets/img/globus_rclone/globus_and_rclone13.png" width=500px />
+
+---
 
 # Request a file transfer
 
@@ -42,29 +48,35 @@ objectives:
 
 <img src="../assets/img/globus_rclone/globus_and_rclone14.png" width=500px />
 
-# Click on “Your Collection” tab. Find the Globus Connect Personal endpoint you created earlier and click on it.
+Click on “Your Collection” tab. Find the Globus Connect Personal endpoint you created earlier and click on it.
 
 <img src="../assets/img/globus_rclone/globus_and_rclone15.png" width=500px />
 
-# On the left collection, UH-HPC, select the file you would like to transfer. The Start> button at the top of the panel will activate. Click the Start> button to transfer the selected files to the collection in the right panel.
+On the left collection, UH-HPC, select the file you would like to transfer. The Start> button at the top of the panel will activate. Click the Start> button to transfer the selected files to the collection in the right panel.
 
 <img src="../assets/img/globus_rclone/globus_and_rclone16.png" width=500px />
 
-# Globus will display a green notification panel—​confirming that the transfer request was submitted—​and add a badge to the “Activity” item in the command menu on the left of the page. Click Activity in the command menu on the left of the page to go to the Activity page.
+---
+
+Globus will display a green notification panel—​confirming that the transfer request was submitted—​and add a badge to the “Activity” item in the command menu on the left of the page. Click Activity in the command menu on the left of the page to go to the Activity page.
 
 <img src="../assets/img/globus_rclone/globus_and_rclone17.png" width=500px />
 
-# Confirm Transfer CompletionOn the Activity page, click the arrow icon on the right to view details about the transfer. You will also receive an email with the transfer details.
+Confirm Transfer CompletionOn the Activity page, click the arrow icon on the right to view details about the transfer. You will also receive an email with the transfer details.
 
 <img src="../assets/img/globus_rclone/globus_and_rclone18.png" width=500px />
+
+---
 
 # Activity Page
 
 <img src="../assets/img/globus_rclone/globus_and_rclone19.png" width=500px />
 
-# If you notice that the transferred files are not listed in the right panel with your Globus Connect Personal collection. Click the refresh icon (circular arrows) at the top of the collection panel to see the updated contents.
+If you notice that the transferred files are not listed in the right panel with your Globus Connect Personal collection. Click the refresh icon (circular arrows) at the top of the collection panel to see the updated contents.
 
 <img src="../assets/img/globus_rclone/globus_and_rclone20.png" width=500px />
+
+---
 
 # Questions about Globus
 
