@@ -48,3 +48,5 @@ Queues are the reason that everything in the universe isn't stuck waiting for ev
 * Storage systems benefit from design choices
 * Most defaults support many users sharing a resource
 * Our use case is more about committing entire machines to a single purpose
+
+{% include links.md %}
