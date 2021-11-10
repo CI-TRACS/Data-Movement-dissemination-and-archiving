@@ -8,8 +8,6 @@ objectives:
 -
 ---
 
-# Processes and Queues
-
 # Queues (also known as buffers)
 
 Queues are places where things arrive to wait for something
