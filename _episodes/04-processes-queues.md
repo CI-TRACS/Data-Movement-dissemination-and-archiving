@@ -18,7 +18,7 @@ Data waits in queues for a chance to be transmitted further
 {: .callout}
 
 {% include figure.html url="" 
-   file="/fig/ep40.jpg" width=500px alt="" caption=" Attribution: © Vulphere Wikimedia Commons CC BY 4.0 https://creativecommons.org/licenses/by/4.0/deed.en" %}
+   file="/fig/ep40.jpg" width=500px alt="" caption="Attribution: © Vulphere Wikimedia Commons CC BY 4.0 https://creativecommons.org/licenses/by/4.0/deed.en" %}
 
 {% include figure.html url="" 
    file="/fig/ep41.png" width=500px alt="" caption="" %}
@@ -26,7 +26,7 @@ Data waits in queues for a chance to be transmitted further
 {% include figure.html url="" 
    file="/fig/ep42.png" width=500px alt="" caption="" %}
 
-{% include figure.html url="" "
+{% include figure.html url="" 
    file="/fig/ep43.png" width=500px alt="" caption="" %}
 
 {% include figure.html url="" 
