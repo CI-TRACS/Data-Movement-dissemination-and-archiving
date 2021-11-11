@@ -243,6 +243,34 @@ $ rclone lsf rclone-gdrive:/
 
 <img src="/fig/Rclonesuccess.png" width=600px />
 
+---
 
+# Now we can create a directory to transfer files to/from MANA/GDrive
+- Make a directory called “rclonefiles” using the “mkdir” command
 
+~~~
+$ mkdir rclonefiles
+~~~
+{: .language-bash}
+
+- Move into the directory we just created
+
+~~~
+$ cd rclonefiles
+~~~
+{: .language-bash}
+
+- ‘cd’ is the change directory command
+
+---
+
+# Create a test document for transfer
+
+In google drive create a folder name it “rclonetest” 
+
+<img src="/fig/RCloneGD1.png" width=600px />
+
+Within that folder create a new doc and call it “testfile”
+
+<img src="/fig/RCloneGD2.png" width=600px />
 
