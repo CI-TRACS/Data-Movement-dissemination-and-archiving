@@ -171,4 +171,17 @@ $ 1
 
 <img src="/fig/RClone9.png" width=600px />
 
+---
+
+Leave ID of the root folder blank normally
+
+<img src="/fig/RClone10.png" width=600px />
+
+---
+
+Leave Service Account of the root folder blank normally
+
+<img src="/fig/RClone11.png" width=600px />
+
+
 
