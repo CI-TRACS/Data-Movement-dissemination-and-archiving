@@ -181,7 +181,7 @@ Leave ID of the root folder blank normally
 
 Leave Service Account of the root folder blank normally
 
-<img src="/fig/RClone11.png" width=600px />
+<img src="/fig/RClone12.png" width=600px />
 
 
 
