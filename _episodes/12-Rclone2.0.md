@@ -62,19 +62,19 @@ $ ssh luketn@hpc-dtn1.its.hawaii.edu
 
 Two Factor Authentication for Duo Push
 ~~~
-$ ssh 1
+$ 1
 ~~~
 {: .language-bash}
 
 Two Factor Authentication for Phone Call
 ~~~
-$ ssh 2
+$ 2
 ~~~
 {: .language-bash}
 
 Two Factor Authentication for SMS
 ~~~
-$ ssh 3
+$ 3
 ~~~
 {: .language-bash}
 
@@ -85,7 +85,7 @@ $ ssh 3
 # Configuring Rclone
 
 ~~~
-$ ssh rclone config
+$ rclone config
 ~~~
 {: .language-bash}
 
@@ -94,7 +94,7 @@ $ ssh rclone config
 ---
 
 ~~~
-$ ssh n
+$ n
 ~~~
 {: .language-bash}
 
@@ -117,6 +117,19 @@ $ ssh n
 <span style="color:#595959">name> rclone\-gdrive</span>
 
 <img src="/fig/R Clone6.png" width=600px />
+
+---
+
+# Choosing a Storage Option
+
+<img src="/fig/RClone 7.png" width=600px />
+
+~~~
+$ 15
+~~~
+{: .language-bash}
+
+- Choose #15, Google Drive as Storage Option
 
 
 <span style="color:#000000">Select Storage System \- Google Drive 13</span>
