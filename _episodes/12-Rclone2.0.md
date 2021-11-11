@@ -178,10 +178,16 @@ Leave ID of the root folder blank normally
 <img src="/fig/RClone10.png" width=600px />
 
 ---
+# Auto Configuration
 
-Leave Service Account of the root folder blank normally
+~~~
+$ n
+~~~
+{: .language-bash}
 
-<img src="/fig/RClone12.png" width=600px />
+<img src="/fig/RClone13.png" width=600px />
+
+
 
 
 
