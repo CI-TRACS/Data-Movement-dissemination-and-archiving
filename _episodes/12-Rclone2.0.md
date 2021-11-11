@@ -116,7 +116,7 @@ $ ssh n
 
 <span style="color:#595959">name> rclone\-gdrive</span>
 
-<img src="/fig/RClone5.png" width=600px />
+<img src="/fig/R Clone6.png" width=600px />
 
 
 <span style="color:#000000">Select Storage System \- Google Drive 13</span>
