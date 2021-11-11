@@ -8,7 +8,7 @@ question:
 objectives:
 - "Move sample data from a repository to Globus, then to your computer to Globus"
 ---
-# Transferring Data from and to Mana Using Globus Connect Personal
+
 # Using Rclone
 ---
 
