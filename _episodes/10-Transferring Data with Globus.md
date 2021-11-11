@@ -81,3 +81,5 @@ If you notice that the transferred files are not listed in the right panel with
 # Questions about Globus
 
 __?__
+
+{% include links.md %}
