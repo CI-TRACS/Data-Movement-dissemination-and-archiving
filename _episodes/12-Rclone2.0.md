@@ -216,7 +216,7 @@ $ y
 
 ---
 
--Do not configure google share
+-Do not configure as a team drive
 
 <img src="/fig/RClone20.png" width=600px />
 
