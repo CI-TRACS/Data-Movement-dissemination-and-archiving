@@ -35,7 +35,7 @@ This configuration step will set up access for the remote object storage system 
 In this tutorial we will configure Google Drive since UH has Google for Education and everyone at UH has it
 
 # Open a Shell Session on MANA
-1.) Get a shell session on MANA through your own terminal or you can use Open OnDemand via https://mana.its.hawaii.edu
+1.) Start a shell session on MANA through your own terminal or you can use Open OnDemand via https://mana.its.hawaii.edu
 
 Clusters -> >_Mana_Shell_Access
 
