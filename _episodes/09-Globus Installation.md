@@ -74,3 +74,5 @@ _[Globus Connect Personal for Linux](https://docs.globus.org/how-to/globus-conne
 _[Globus Connect Personal for Windows](https://docs.globus.org/how-to/globus-connect-personal-windows)_  __for recent Windows versions__
 
 __Note: Once you are done installing GCP\, the Globus Connect Personal agent will be running in the background\. Once you disconnect from it\, you can__  __launch__  __the application again by__  __clicking__  __“command\+space bar” keys on Mac machine or Windows key on Windows machine and typing “globus” to select the application to restart it\.__
+
+{% include links.md %}
