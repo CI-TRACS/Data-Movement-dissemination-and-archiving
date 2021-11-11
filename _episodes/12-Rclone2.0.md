@@ -14,7 +14,7 @@ objectives:
 
 <img src="../assets/img/globus_rclone/globus_and_rclone21.png" width=300px />
 
-- Rclone is a free utility for syncing directories between object storage systems \(such as Amazon S3\, Dropbox\, Google Drive etc\) and file based storage \(e\.g\. /home or /scratch\)\.
+- Rclone is a free utility for syncing directories between object storage systems (such as Amazon S3, Dropbox, Google Drive etc) and file based storage (e.g. home or scratch))
 
 https://rclone.org
 
@@ -37,7 +37,7 @@ In this tutorial we will configure Google Drive since UH has Google for Educatio
 # Open a Shell Session on MANA
 1.) Get a shell session on MANA through your own terminal or you can use Open OnDemand via https://mana.its.hawaii.edu
 
-Clusters  \->   >\_Mana\_Shell\_Access</span>
+Clusters -> >_Mana_Shell_Access
 
 From your terminal/shell ssh to one of the Mana DTNs
 
@@ -48,7 +48,37 @@ $ ssh username@hpc-dtn1.its.hawaii.edu
 
 *You may be prompted for your password depending on where you are SSHing from and you WILL be prompted for DUO two-factor verification.
 
-$ ssh hpc\-dtn1\.its\.hawaii\.edu</span>
+~~~
+$ ssh username@hpc-dtn1.its.hawaii.edu
+~~~
+{: .language-bash}
+
+Example 
+
+~~~
+$ ssh luketn@hpc-dtn1.its.hawaii.edu
+~~~
+{: .language-bash}
+
+---
+
+Two Factor Authentication for Duo Push
+~~~
+$ ssh 1
+~~~
+{: .language-bash}
+
+Two Factor Authentication for Phone Call
+~~~
+$ ssh 2
+~~~
+{: .language-bash}
+
+Two Factor Authentication for SMS
+~~~
+$ ssh 3
+~~~
+{: .language-bash}
 
 <span style="color:#595959">Duo two\-factor login for seanbc</span>
 
