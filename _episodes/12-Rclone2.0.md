@@ -48,10 +48,6 @@ $ ssh username@hpc-dtn1.its.hawaii.edu
 
 *You may be prompted for your password depending on where you are SSHing from and you WILL be prompted for DUO two-factor verification.
 
-~~~
-$ ssh username@hpc-dtn1.its.hawaii.edu
-~~~
-{: .language-bash}
 
 Example 
 
