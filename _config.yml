@@ -27,9 +27,13 @@ episode_order:
   - 05-tcp
   - 06-transfer-programs
   - 07-sci-transfer-examples
-  - 10-Introduction to Globus
-  - 11-Globus Installation
-  - 12-Transferring Data with Globus
+  - 08-Introduction to Globus.md
+  - 09-Globus Installation.md
+  - 10-Transferring Data with Globus.md
+  - 11-Rclone Part I.md
+  - 12-Rclone Part II.md
+ 
+
 
 
 #------------------------------------------------------------
