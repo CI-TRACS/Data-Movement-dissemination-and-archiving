@@ -204,6 +204,9 @@ You should receive a verifiable link after configuration is complete
 
 <img src="/fig/RClone21.png" width=400px />
 
+<img src="/fig/Rcloneconfig.png" width=400px />
+
+
 Configuration of Google Drive? 
 - Don't configure as a Google Drive
 
@@ -213,6 +216,9 @@ Configuration of Google Drive?
 $ n
 ~~~
 {: .language-bash}
+
+---
+
 
 
 
