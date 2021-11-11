@@ -312,7 +312,33 @@ $ ls
 
 ---
 
-# Now copy testfile2.docx to GDrive ( the source is the Mana testfile2.docx and the destination is gdrive)
+# Now copy testfile2.docx to GDrive 
+The source is the Mana testfile2.docx and the destination is gdrive
 
+~~~
+$ rclone copy testfile2.docx rclone-gdrive:/rclonetest
+~~~
+{: .language-bash}
 
+---
+
+You can check GDrive and the file should appear!
+<img src="/fig/rclonetf.png" width=300px />
+
+---
+
+The copy command on a folder will overwrite files that have the same name but if a files exists on the destination that isn’t in the folder being copied it will be retained on the destination (when we get to sync you will see a difference in this behavior)
+
+The sync command is useful to keep a folder on GDrive and somewhere else with identical contents - meaning that if the destination folder has files that do not exist on the source they will be removed (so be careful)
+
+---
+
+# Rclone sync source destination
+
+Let's remove testfile.docx and sync our rclonefiles folder to our GDrive rclonetest folder
+
+~~~
+$ rm testfile.docx
+~~~
+{: .language-bash}
 
