@@ -26,11 +26,8 @@ Making data transfers perform well can be somewhat deep andcomplicated\, but it'
 >   * Cat6 is only capable of 4 times throughput over Cat5e (10G vs 2.5G)
 >   * This is an Ethernet cable, not an Audio/Video "streaming" cable
 > * Making the "10x" claim conflicts with the "speeds up to 1Gbps" claim.
-{: .callout}
 
-{% include figure.html url=""
-   file="../fig/ep10.jpg" width=432px alt="" caption="" %}
-
+<img src="/fig/ep10.jpg" width=432px />
 
 # How Stuff Connects Together
 
@@ -81,11 +78,11 @@ Making data transfers perform well can be somewhat deep andcomplicated\, but it'
 
 ## Commodity
 
-{% include figure.html url="" file="../fig/ep11.png" width=500px alt="" caption="Commodity" %}
+<img src="/fig/ep11.png" width=500px />
 
 ## REN Path
 
-{% include figure.html url=""  file="../fig/ep12.png" width=500px alt="" caption="REN path" %}
+<img src="../fig/ep12.png" width=500px />
 
 
-{% include links.md %}
+
