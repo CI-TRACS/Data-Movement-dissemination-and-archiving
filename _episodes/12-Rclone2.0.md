@@ -16,13 +16,15 @@ objectives:
 
 - Rclone is a free utility for syncing directories between object storage systems \(such as Amazon S3\, Dropbox\, Google Drive etc\) and file based storage \(e\.g\. /home or /scratch\)\.
 
-- [https://rclone\.org/](https://rclone.org/)_ </span>
+[https://rclone\.org/](https://rclone.org/)_ </span>
 
-<span style="color:#000000">Note about this tutorial</span>
+---
 
-<span style="color:#595959">Wherever this tutorials uses ‘>’ that means there is a command to execute on the terminal/shell</span>
+*Note about this tutorial
 
-<span style="color:#595959">Rclone is installed on the Mana Data Transfer Nodes and can be used in the command line via</span>
+Wherever this tutorials uses ‘>’ that means there is a command to execute on the terminal/shell</span>
+
+Rclone is installed on the Mana Data Transfer Nodes and can be used in the command line via</span>
 
 <span style="color:#595959">> rclone</span>
 
