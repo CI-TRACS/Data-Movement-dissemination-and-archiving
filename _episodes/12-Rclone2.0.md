@@ -3,7 +3,7 @@ title: "Using Rclone"
 teaching: 1
 exercises: 1
 question:
-- "How do I move data from my machine to Globus?"
+- "How do I Configure Rclone?"
 - "How do I move data from Globus to my machine?"
 objectives:
 - "Move sample data from a repository to Globus, then to your computer to Globus"
@@ -19,7 +19,7 @@ objectives:
 https://rclone.org
 
 ---
-# Rclone In MANA
+# Rclone in MANA
 
 Rclone is installed on the Mana Data Transfer Nodes and can be used in the command line via 
 
@@ -30,11 +30,12 @@ $ rclone
 
 # Configuring Rclone
 
-<span style="color:#595959">Before you can use Rclone\, you must configure it\. This configuration step will set up access for the remote object storage system that you want to transfer data to and from\.</span>
+Before you can use Rclone, you must configure it 
+This configuration step will set up access for the remote object storage system that you want to transfer data to and from
+In this tutorial we will configure Google Drive since UH has Google for Education and everyone at UH has it
 
-<span style="color:#595959">In this tutorial we will configure Google Drive since UH has Google for Education and everyone at UH has it\.</span>
-
-<span style="color:#595959">Get a shell session on Mana  \- your own terminal or you can use Open OnDemand via</span>  <span style="color:#0097A7"> _[https://mana\.its\.hawaii\.edu](https://mana.its.hawaii.edu)_ </span>  <span style="color:#595959">and select from the Menu</span>
+# Step 1
+Get a shell session on Mana  \- your own terminal or you can use Open OnDemand via</span>  <span style="color:#0097A7"> _[https://mana\.its\.hawaii\.edu](https://mana.its.hawaii.edu)_ </span>  <span style="color:#595959">and select from the Menu</span>
 
 <span style="color:#595959">Clusters  \->   >\_Mana\_Shell\_Access</span>
 
