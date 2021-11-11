@@ -12,7 +12,7 @@ objectives:
 # Using Rclone
 ---
 
-<img src="../assets/img/globus_rclone/globus_and_rclone21.png" width=300px />
+<img src="../assets/img/globus_rclone/globus_and_rclone21.png" width=600px />
 
 - Rclone is a free utility for syncing directories between object storage systems (such as Amazon S3, Dropbox, Google Drive etc) and file based storage (e.g. home or scratch))
 
@@ -56,7 +56,7 @@ $ ssh luketn@hpc-dtn1.its.hawaii.edu
 ~~~
 {: .language-bash}
 
-<img src="/fig/RClone 1.png" width=432px />
+<img src="/fig/RClone 1.png" width=600px />
 
 ---
 
