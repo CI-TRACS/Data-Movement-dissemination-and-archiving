@@ -39,9 +39,12 @@ In this tutorial we will configure Google Drive since UH has Google for Educatio
 
 Clusters  \->   >\_Mana\_Shell\_Access</span>
 
-<span style="color:#595959">From your terminal/shell ssh to one of the Mana DTNs</span>
+From your terminal/shell ssh to one of the Mana DTNs
 
-<span style="color:#595959">>ssh</span>  <span style="color:#0097A7"> _[username@hpc\-dtn1\.its\.hawaii\.edu](mailto:username@hpc-dtn01.its.hawaii.edu)_ </span>
+~~~
+$ ssh username@hpc-dtn1.its.hawaii.edu
+~~~
+{: .language-bash}
 
 <span style="color:#595959">Your may be prompted for your password depending on where you are SSHing from and you WILL be prompted for DUO two\-factor verification\.</span>
 
