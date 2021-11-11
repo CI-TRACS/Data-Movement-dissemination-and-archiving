@@ -147,26 +147,27 @@ OAuth Client Secret
 - Leave blank normally.
 
 Scope
- 1 / Full access all files, excluding Application Data Folder.
+- 1 / Full access all files, excluding Application Data Folder.
    \ "drive"
- 2 / Read-only access to file metadata and file contents.
+
+- 2 / Read-only access to file metadata and file contents.
    \ "drive.readonly"
    / Access to files created by rclone only.
- 3 | These are visible in the drive website.
+- 3 | These are visible in the drive website.
    | File authorization is revoked when the user deauthorizes the app.
    \ "drive.file"
    / Allows read and write access to the Application Data folder.
- 4 | This is not visible in the drive website.
+- 4 | This is not visible in the drive website.
    \ "drive.appfolder"
    / Allows read-only access to file metadata but
- 5 | does not allow any access to read or download file content.
+- 5 | does not allow any access to read or download file content.
    \ "drive.metadata.readonly"
-
+<img src="/fig/RClone8.png" width=600px />
 ~~~
 $ 1
 ~~~
 {: .language-bash}
 
-<img src="/fig/RClone8.png" width=600px />
+<img src="/fig/RClone9.png" width=600px />
 
 
