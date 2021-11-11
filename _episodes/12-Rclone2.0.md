@@ -274,3 +274,17 @@ Within that folder create a new doc and call it “testfile”
 
 <img src="/fig/RCloneGD2.png" width=300px />
 
+---
+
+# Copying the directory contents from GDrive to Mana
+
+‘rclone copy’ has a source and destination required
+
+GDrive being the source in the example below and the current directory (represented by the ‘.’) the destination
+
+~~~
+$ rclone copy rclone-gdrive:/rclonetest .
+~~~
+{: .language-bash}
+
+This will copy the folder contents to the current directory - Note the ‘.’ at the end this is represents the current directory as the destination folder - we could also have used ~/rclonefiles or /home/username/rclonefiles as that same folder path.
