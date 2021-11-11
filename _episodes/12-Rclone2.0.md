@@ -122,12 +122,12 @@ $ n
 
 # Choosing a Storage Option
 
-<img src="/fig/RClone7.png" width=600px />
-
 ~~~
 $ 15
 ~~~
 {: .language-bash}
+
+<img src="/fig/RClone7.png" width=600px />
 
 - Choose #15, Google Drive as Storage Option
 
