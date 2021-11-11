@@ -342,3 +342,20 @@ $ rm testfile.docx
 ~~~
 {: .language-bash}
 
+
+~~~
+$ rclone sync ~/rclonefiles rclone-gdrive:/rclonetest
+~~~
+{: .language-bash}
+
+We should see in GDrive that now only testfile2.docx is there because the folders are in sync - Mana’s rclonefiles folder was the source so the GDrive rclonetest folder is now identical to rclonefiles
+
+RClone large transfer - use nohup
+
+For transfers that make take a long time that you do not wish to observe or that your connection might disconnect you should use ‘nohup’ so they run in the background until complete. Example of nohup ‘rclone copy’ below:
+
+~~~
+$ nohup rclone copy source destination > nohup.out &
+~~~
+{: .language-bash}
+
