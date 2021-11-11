@@ -1,12 +1,11 @@
 ---
-title: "Using Rclone"
+title: "Configuring and Using Rclone"
 teaching: 1
 exercises: 1
 question:
 - "How do I Configure Rclone?"
-- "How do I move data from Globus to my machine?"
 objectives:
-- "Move sample data from a repository to Globus, then to your computer to Globus"
+- "Make Rclone ready for data transfer with gdrive"
 ---
 
 # Using Rclone
