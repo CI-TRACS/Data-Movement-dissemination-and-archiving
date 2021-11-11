@@ -42,6 +42,10 @@ Rclone is a free utility for syncing directories between object storage systems 
 
 <span style="color:#595959">Your may be prompted for your password depending on where you are SSHing from and you WILL be prompted for DUO two\-factor verification\.</span>
 
+$
+~~~
+{: .language-bash}
+
 <span style="color:#595959">\[seanbc@login002 ~\]$ ssh hpc\-dtn1\.its\.hawaii\.edu</span>
 
 <span style="color:#595959">Duo two\-factor login for seanbc</span>
