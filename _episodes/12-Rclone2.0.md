@@ -225,7 +225,7 @@ $ n
 ~~~
 {: .language-bash}
 
-- Quit Setup
+- Quit Configuration
 ~~~
 $ q
 ~~~
