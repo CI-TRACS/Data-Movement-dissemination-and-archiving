@@ -233,8 +233,15 @@ $ q
 
 ---
 
+# Now we can list files from GDrive
+- ‘lsf’ is how we list files using Rclone
 
+~~~
+$ rclone lsf rclone-gdrive:/
+~~~
+{: .language-bash}
 
+<img src="/fig/Rclonesuccess.png" width=600px />
 
 
 
