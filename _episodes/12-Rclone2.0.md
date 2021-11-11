@@ -359,3 +359,19 @@ $ nohup rclone copy source destination > nohup.out &
 ~~~
 {: .language-bash}
 
+The ‘>’ after the destination will direct any standard output to be written to the nohup.out file and the ‘&’ on the end tells the shell to disconnect the command issued and run it in the background so you can still use your terminal/shell for other commands or exiting the session - the command issued with ‘nohup’ will continue to run.
+
+---
+
+# Rclone documentation
+
+More information about Rclone and Google Drive can be found here:
+
+https://rclone.org/drive/#limitations
+
+You can download for your machine her https://rclone.org/downloads/
+
+Note - there is an experimental GUI for your laptop/workstation https://rclone.org/gui/
+
+### Questions?
+
