@@ -34,10 +34,10 @@ Before you can use Rclone, you must configure it
 This configuration step will set up access for the remote object storage system that you want to transfer data to and from
 In this tutorial we will configure Google Drive since UH has Google for Education and everyone at UH has it
 
-# Step 1
-Get a shell session on Mana  \- your own terminal or you can use Open OnDemand via</span>  <span style="color:#0097A7"> _[https://mana\.its\.hawaii\.edu](https://mana.its.hawaii.edu)_ </span>  <span style="color:#595959">and select from the Menu</span>
+# Open a Shell Session on MANA
+1.) Get a shell session on MANA through your own terminal or you can use Open OnDemand via https://mana.its.hawaii.edu
 
-<span style="color:#595959">Clusters  \->   >\_Mana\_Shell\_Access</span>
+Clusters  \->   >\_Mana\_Shell\_Access</span>
 
 <span style="color:#595959">From your terminal/shell ssh to one of the Mana DTNs</span>
 
