@@ -56,6 +56,8 @@ $ ssh luketn@hpc-dtn1.its.hawaii.edu
 ~~~
 {: .language-bash}
 
+<img src="/fig/RClone1.jpg" width=432px />
+
 ---
 
 Two Factor Authentication for Duo Push
