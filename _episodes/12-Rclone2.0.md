@@ -200,6 +200,9 @@ You should receive a verifiable link after configuration is complete
 <img src="/fig/RClone16.png" width=400px />
 
 ---
+# Copy Validation Code and Enter in MANA
+
+<img src="/fig/RClone21.png" width=400px />
 
 Configuration of Google Drive? 
 - Don't configure as a Google Drive
