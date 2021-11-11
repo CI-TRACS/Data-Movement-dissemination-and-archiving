@@ -76,29 +76,15 @@ $ ssh 3
 ~~~
 {: .language-bash}
 
-<span style="color:#595959">Duo two\-factor login for seanbc</span>
+---
 
-<span style="color:#595959">Enter a passcode or select one of the following options:</span>
+# Configuring Rclone
 
-<span style="color:#595959">1\. Duo Push to XXX\-XXX\-5555</span>
+~~~
+$ ssh rclone config
+~~~
+{: .language-bash}
 
-<span style="color:#595959">2\. Phone call to XXX\-XXX\-5555</span>
-
-<span style="color:#595959">3\. SMS passcodes to XXX\-XXX\-5555 \(next code starts with: 4\)</span>
-
-<span style="color:#595959">Passcode or option \(1\-3\): 1</span>
-
-<span style="color:#595959">Pushed a login request to your device\.\.\.</span>
-
-<span style="color:#595959">Success\. Logging you in\.\.\.</span>
-
-<span style="color:#595959">\[seanbc@hpc\-dtn1 ~\]$</span>
-
-<span style="color:#000000">Step 1 \- Configure RClone to use GDrive</span>
-
-<span style="color:#595959">> rclone config</span>
-
-<span style="color:#595959">2021/01/29 16:16:25 Failed to load config file "/home/xxxx/\.rclone\.conf" \- using defaults: open /home/xxxx/\.rclone\.conf: no such file or directory</span>
 
 <span style="color:#595959">No remotes found \- make a new one</span>
 
