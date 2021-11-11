@@ -197,7 +197,7 @@ You should receive a verifiable link after configuration is complete
 
 # Google Validation
 
-<img src="/fig/RClone16.png" width=600px />
+<img src="/fig/RClone16.png" width=400px />
 
 ---
 
