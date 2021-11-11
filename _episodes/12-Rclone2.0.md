@@ -195,5 +195,10 @@ You should receive a verifiable link after configuration is complete
 
 {% include links.md %}
 
+# Google Validation
+
+<img src="/fig/RClone20.png" width=600px />
+
+
 
 
