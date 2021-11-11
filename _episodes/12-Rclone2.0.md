@@ -56,7 +56,7 @@ $ ssh luketn@hpc-dtn1.its.hawaii.edu
 ~~~
 {: .language-bash}
 
-<img src="/fig/RClone1.jpg" width=432px />
+<img src="/fig/RClone1.png" width=432px />
 
 ---
 
