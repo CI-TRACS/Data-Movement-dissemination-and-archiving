@@ -163,6 +163,7 @@ Scope
 - 5 | does not allow any access to read or download file content.
    \ "drive.metadata.readonly"
 <img src="/fig/RClone8.png" width=600px />
+
 ~~~
 $ 1
 ~~~
