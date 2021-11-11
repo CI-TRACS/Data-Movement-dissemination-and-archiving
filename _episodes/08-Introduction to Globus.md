@@ -51,3 +51,5 @@ These scenarious include:
 2.)   data transfer between 2 Globus Connect Personal endpoints (eg. sharing data between your desktop and laptop)
 
 3.)   to transfer data from a Globus Connect Personal endpoint
+
+{% include links.md %}
