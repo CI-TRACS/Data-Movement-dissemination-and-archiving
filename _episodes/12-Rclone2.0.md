@@ -268,9 +268,9 @@ $ cd rclonefiles
 
 In google drive create a folder name it “rclonetest” 
 
-<img src="/fig/RCloneGD1.png" width=600px />
+<img src="/fig/RCloneGD1.png" width=300px />
 
 Within that folder create a new doc and call it “testfile”
 
-<img src="/fig/RCloneGD2.png" width=600px />
+<img src="/fig/RCloneGD2.png" width=300px />
 
