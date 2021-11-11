@@ -122,7 +122,7 @@ $ n
 
 # Choosing a Storage Option
 
-<img src="/fig/RClone 7.png" width=600px />
+<img src="/fig/RClone7.png" width=600px />
 
 ~~~
 $ 15
