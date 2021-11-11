@@ -28,7 +28,7 @@ $ rclone
 ~~~
 {: .language-bash}
 
-# Configuring Rclone
+# Configuring Rclon
 
 Before you can use Rclone, you must configure it 
 This configuration step will set up access for the remote object storage system that you want to transfer data to and from
