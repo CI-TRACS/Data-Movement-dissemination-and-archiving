@@ -288,3 +288,31 @@ $ rclone copy rclone-gdrive:/rclonetest .
 {: .language-bash}
 
 This will copy the folder contents to the current directory - Note the ‘.’ at the end this is represents the current directory as the destination folder - we could also have used ~/rclonefiles or /home/username/rclonefiles as that same folder path.
+
+---
+
+# MANA to GDrive
+
+- Create a testfile2.docx on the Mana DTN by copying testfile.docx
+
+~~~
+$ cp testfile.docx testfile2.docx
+~~~
+{: .language-bash}
+
+
+<img src="/fig/Rclonecp.png" width=300px />
+
+‘cp’ is the copy command in the terminal/shell
+
+~~~
+$ ls
+~~~
+{: .language-bash}
+
+---
+
+# Now copy testfile2.docx to GDrive ( the source is the Mana testfile2.docx and the destination is gdrive)
+
+
+
