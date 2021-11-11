@@ -206,12 +206,15 @@ You should receive a verifiable link after configuration is complete
 
 Configuration of Google Drive? 
 - Don't configure as a Google Drive
+
+<img src="/fig/RClone20.png" width=600px />
+
 ~~~
 $ n
 ~~~
 {: .language-bash}
 
-<img src="/fig/RClone20.png" width=600px />
+
 
 
 
