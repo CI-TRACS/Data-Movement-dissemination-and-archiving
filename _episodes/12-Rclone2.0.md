@@ -24,9 +24,7 @@ objectives:
 
 Wherever this tutorials uses ‘>’ that means there is a command to execute on the terminal/shell</span>
 
-Rclone is installed on the Mana Data Transfer Nodes and can be used in the command line via</span>
-
-<span style="color:#595959">> rclone</span>
+Rclone is installed on the Mana Data Transfer Nodes and can be used in the command line via rclone</span>
 
 <span style="color:#000000">Configuring Rclone</span>
 
