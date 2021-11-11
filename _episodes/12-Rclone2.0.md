@@ -89,7 +89,7 @@ $ ssh rclone config
 ~~~
 {: .language-bash}
 
-<img src="/fig/R Clone 3.png" width=600px />
+<img src="/fig/RClone 3.png" width=600px />
 
 ---
 
