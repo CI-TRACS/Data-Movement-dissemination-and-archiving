@@ -78,6 +78,8 @@ $ ssh 3
 ~~~
 {: .language-bash}
 
+
+<img src="/fig/RClone 2.png" width=432px />
 ---
 
 # Configuring Rclone
