@@ -187,6 +187,12 @@ $ n
 
 <img src="/fig/RClone13.png" width=600px />
 
+---
+
+You should receive a verifiable link after configuration is complete
+
+<img src="/fig/RClone14.png" width=600px />
+
 
 
 
