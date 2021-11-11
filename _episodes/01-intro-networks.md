@@ -29,7 +29,7 @@ Making data transfers perform well can be somewhat deep andcomplicated\, but it'
 {: .callout}
 
 {% include figure.html url=""
-   file="/fig/ep10.jpg" width=432px alt="" caption="" %}
+   file="../fig/ep10.jpg" width=432px alt="" caption="" %}
 
 
 # How Stuff Connects Together
@@ -81,11 +81,11 @@ Making data transfers perform well can be somewhat deep andcomplicated\, but it'
 
 ## Commodity
 
-{% include figure.html url="" file="/fig/ep11.png" width=500px alt="" caption="Commodity" %}
+{% include figure.html url="" file="../fig/ep11.png" width=500px alt="" caption="Commodity" %}
 
 ## REN Path
 
-{% include figure.html url=""  file="/fig/ep12.png" width=500px alt="" caption="REN path" %}
+{% include figure.html url=""  file="../fig/ep12.png" width=500px alt="" caption="REN path" %}
 
 
 {% include links.md %}
