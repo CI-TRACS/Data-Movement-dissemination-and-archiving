@@ -14,9 +14,9 @@ objectives:
 
 <img src="../assets/img/globus_rclone/globus_and_rclone21.png" width=300px />
 
-Rclone is a free utility for syncing directories between object storage systems \(such as Amazon S3\, Dropbox\, Google Drive etc\) and file based storage \(e\.g\. /home or /scratch\)\.
+- Rclone is a free utility for syncing directories between object storage systems \(such as Amazon S3\, Dropbox\, Google Drive etc\) and file based storage \(e\.g\. /home or /scratch\)\.
 
-<span style="color:#0097A7"> _[https://rclone\.org/](https://rclone.org/)_ </span>
+- [https://rclone\.org/](https://rclone.org/)_ </span>
 
 <span style="color:#000000">Note about this tutorial</span>
 
