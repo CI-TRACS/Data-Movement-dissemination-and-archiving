@@ -106,13 +106,18 @@ $ ssh n
 
 <span style="color:#595959">q\) Quit config</span>
 
-<span style="color:#595959"> __Type "n" to set up a new object storage system with which to transfer data\.__ </span>
+---
 
 <span style="color:#000000">Choose a name for the remote object storage system</span>
+
+<img src="/fig/RClone4.png" width=600px />
 
 <span style="color:#595959">You'll be prompted for the name of the remote object storage system\, we use "rclone\-gdrive" in this tutorial</span>
 
 <span style="color:#595959">name> rclone\-gdrive</span>
+
+<img src="/fig/RClone5.png" width=600px />
+
 
 <span style="color:#000000">Select Storage System \- Google Drive 13</span>
 
