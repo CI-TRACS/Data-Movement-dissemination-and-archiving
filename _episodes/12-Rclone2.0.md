@@ -89,6 +89,14 @@ $ ssh rclone config
 ~~~
 {: .language-bash}
 
+<img src="/fig/R Clone 3.png" width=600px />
+
+---
+
+~~~
+$ ssh n
+~~~
+{: .language-bash}
 
 <span style="color:#595959">No remotes found \- make a new one</span>
 
