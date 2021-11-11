@@ -1,3 +1,14 @@
+---
+title: "Transferring Files with Rclone"
+teaching: 1
+exercises: 2
+question:
+- "How do I move data from google drive to MANA?"
+- "How do I move data from MANA to google drive?"
+objectives:
+- "Move data to and from MANA and gdrive"
+---
+
 # Now we can list files from GDrive
 - ‘lsf’ is how we list files using Rclone
 
