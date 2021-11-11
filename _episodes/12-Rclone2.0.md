@@ -9,7 +9,7 @@ objectives:
 - "Move sample data from a repository to Globus, then to your computer to Globus"
 ---
 # Transferring Data from and to Mana Using Globus Connect Personal
-### Using Rclone
+# Using Rclone
 ---
 
 <img src="../assets/img/globus_rclone/globus_and_rclone21.png" width=300px />
@@ -19,6 +19,7 @@ objectives:
 https://rclone.org
 
 ---
+# Rclone In MANA
 
 Rclone is installed on the Mana Data Transfer Nodes and can be used in the command line via 
 
@@ -27,7 +28,7 @@ $ rclone
 ~~~
 {: .language-bash}
 
-<span style="color:#000000">Configuring Rclone</span>
+# Configuring Rclone
 
 <span style="color:#595959">Before you can use Rclone\, you must configure it\. This configuration step will set up access for the remote object storage system that you want to transfer data to and from\.</span>
 
