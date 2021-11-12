@@ -40,7 +40,9 @@ objectives:
 These scenarious include:
 
 > 1.)   to share data from your Globus Connect Personal endpoint (eg. sharing data from your desktop)
+
 > 2.)   data transfer between 2 Globus Connect Personal endpoints (eg. sharing data between your desktop and laptop)
+
 > 3.)   to transfer data from a Globus Connect Personal endpoint
 
 {% include links.md %}
