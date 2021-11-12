@@ -230,6 +230,7 @@ $ n
 {: .language-bash}
 
 - Quit Configuration
+
 ~~~
 $ q
 ~~~
