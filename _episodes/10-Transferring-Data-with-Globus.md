@@ -7,6 +7,9 @@ question:
 - "How do I move data from Globus to my machine?"
 objectives:
 - "Move sample data from a repository to Globus, then to your computer to Globus"
+keypoints:
+- "A collection is a named location containing data you can access with Globus. "
+- "Collections can be hosted on many different kinds of systems."
 ---
 # Transferring Data from and to Mana Using Globus Connect Personal
 
@@ -20,17 +23,17 @@ The first time you use the File Manager, all fields will be blank.
 
 <img src="../assets/img/globus_rclone/globus_and_rclone11.png" width=500px />
 
-<span style="color:#595959"> __Tip__ </span>
+> ## Tip 
 
-<span style="color:#595959"> __Key Concept:__ </span>  <span style="color:#595959"> _Collection_ </span>
+> ### Key Concept: Collection
+> A collection is a named location containing data you can access with Globus. Collections can be hosted on many different kinds of systems, including campus storage, HPC clusters, laptops\, Amazon S3 bucket, Google Drive (these are “premium” connectors so seperate a subscription is required), and scientific instruments.
+{: .callout}
 
-<span style="color:#595959">A collection is a named location containing data you can access with Globus\. Collections can be hosted on many different kinds of systems\, including campus storage\, HPC clusters\, laptops\,</span>  <span style="color:#595959"> _Amazon S3 buckets\, Google Drive_ </span>  <span style="color:#595959"> _\(these are_ </span>  <span style="color:#595959"> _“premium” connectors so seperate subscription is required\)_ </span>  <span style="color:#595959">\, and scientific instruments\.</span>
-
-<span style="color:#595959">When you use Globus\, you don’t need to know a physical location or details about storage\. You only need a collection name\. A collection allows authorized Globus users to browse and transfer files\. Collections can also be used for sharing data with others and for enabling discovery by other Globus users\.</span>  <span style="color:#595959"> _[Globus Connect](https://www.globus.org/globus-connect)_ </span>  <span style="color:#595959">is used to host collections\.</span>
+When you use Globus, you don’t need to know a physical location or details about storage. You only need a collection name. A collection allows authorized Globus users to browse and transfer files. Collections can also be used for sharing data with others and for enabling discovery by other Globus users. [Globus Connect](https://www.globus.org/globus-connect) is used to host collections.
 
 # Access a collection
 
-<span style="color:#595959">Click in the Collection field at the top of the File Manager page and type ”UH\-HPC"\. Globus will list collections with matching names\. Choose UH\-HPC\.</span>
+Click in the Collection field at the top of the File Manager page and type ”UH-HPC". Globus will list collections with matching names. Choose UH-HPC.
 
 <img src="../assets/img/globus_rclone/globus_and_rclone12.png" width=500px />
 
@@ -44,7 +47,7 @@ Globus will connect to the UH-HPC collection and display the default directory, 
 
 # Request a file transfer
 
-<span style="color:#595959">A new collection panel will open\, with a ”Search" field at the top of the panel\. Click on it\.</span>
+A new collection panel will open\, with a ”Search" field at the top of the panel. Click on it.</span>
 
 <img src="../assets/img/globus_rclone/globus_and_rclone14.png" width=500px />
 
@@ -79,8 +82,6 @@ If you notice that the transferred files are not listed in the right panel with
 
 ---
 
-# Questions about Globus
-
-__?__
+# Questions about Globus?
 
 {% include links.md %}
