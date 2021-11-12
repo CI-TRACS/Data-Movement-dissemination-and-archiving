@@ -9,11 +9,11 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 <img src="/Data-Movement-dissemination-and-archiving/assets/img/globus_rclone/globus_and_rclone0.png"/>
 <img src="/Data-Movement-dissemination-and-archiving/assets/img/globus_rclone/globus_and_rclone1.png"/>
 
-# CI-TRACS - Data Movement Workshop 2021-11-12
+# CyberInfrastructure Training to Advance Climate Scienc (CI-TRACS) - Data Movement Workshop 2021-11-12
 
 ## Presenters
 
-* Alan Whinery - University of Hawaiʻi System - Chief Internet Engineer
+* Alan WhiCyberinfrastructure Training to Advance Climate Scienc nery - University of Hawaiʻi System - Chief Internet Engineer
 * Luke Nelson - Hawaiʻi Data Science Institute Fellow
 * Sean Cleveland - University of Hawaiʻi System - Cyberinfrastructure Research Scientist
 
