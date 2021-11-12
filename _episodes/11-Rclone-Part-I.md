@@ -6,6 +6,8 @@ question:
 - "How do I Configure Rclone?"
 objectives:
 - "Make Rclone ready for data transfer with gdrive"
+keypoins:
+-
 ---
 
 # Using Rclone
@@ -13,7 +15,7 @@ objectives:
 
 <img src="../assets/img/globus_rclone/globus_and_rclone21.png" width=600px />
 
-- Rclone is a free utility for syncing directories between object storage systems (such as Amazon S3, Dropbox, Google Drive etc) and file based storage (e.g. home or scratch))
+Rclone is a free utility for syncing directories between object storage systems (such as Amazon S3, Dropbox, Google Drive etc) and file based storage (e.g. home or scratch))
 
 https://rclone.org
 
@@ -55,7 +57,7 @@ $ ssh luketn@hpc-dtn1.its.hawaii.edu
 ~~~
 {: .language-bash}
 
-<img src="/fig/RClone 1.png" width=600px />
+<img src="../fig/RClone 1.png" width=600px />
 
 ---
 
@@ -78,7 +80,7 @@ $ 3
 {: .language-bash}
 
 
-<img src="/fig/Rclone 2.png" width=600px />
+<img src="../fig/Rclone 2.png" width=600px />
 ---
 
 # Configuring Rclone
@@ -88,7 +90,7 @@ $ rclone config
 ~~~
 {: .language-bash}
 
-<img src="/fig/RClone 3.png" width=600px />
+<img src="../fig/RClone3.png" width=600px />
 
 ---
 
@@ -109,13 +111,13 @@ $ n
 
 <span style="color:#000000">Choose a name for the remote object storage system</span>
 
-<img src="/fig/RClone4.png" width=600px />
+<img src="../fig/RClone4.png" width=600px />
 
 <span style="color:#595959">You'll be prompted for the name of the remote object storage system\, we use "rclone\-gdrive" in this tutorial</span>
 
 <span style="color:#595959">name> rclone\-gdrive</span>
 
-<img src="/fig/R Clone6.png" width=600px />
+<img src=",,/fig/RClone6.png" width=600px />
 
 ---
 
@@ -126,7 +128,7 @@ $ 15
 ~~~
 {: .language-bash}
 
-<img src="/fig/RClone7.png" width=600px />
+<img src="../fig/RClone7.png" width=600px />
 
 - Choose #15, Google Drive as Storage Option
 ** See help for drive backend at: https://rclone\.org/drive/ **
@@ -161,20 +163,20 @@ Scope
     Allows read-only access to file metadata but
 - 5 does not allow any access to read or download file content.
     "drive.metadata.readonly"
-<img src="/fig/RClone8.png" width=600px />
+<img src="../fig/RClone8.png" width=600px />
 
 ~~~
 $ 1
 ~~~
 {: .language-bash}
 
-<img src="/fig/RClone9.png" width=600px />
+<img src="../fig/RClone9.png" width=600px />
 
 ---
 
 Leave ID of the root folder blank normally
 
-<img src="/fig/RClone10.png" width=600px />
+<img src="../fig/RClone10.png" width=600px />
 
 ---
 # Auto Configuration
@@ -184,29 +186,29 @@ $ n
 ~~~
 {: .language-bash}
 
-<img src="/fig/RClone13.png" width=600px />
+<img src="../fig/RClone13.png" width=600px />
 
 ---
 
 You should receive a verifiable link after configuration is complete
 
-<img src="/fig/RClone14.png" width=600px />
+<img src="../fig/RClone14.png" width=600px />
 
 ---
 
 # Google Validation
 
-<img src="/fig/RClone16.png" width=400px />
+<img src="../fig/RClone16.png" width=400px />
 
 ---
 # Copy Validation Code and Enter in MANA
 
-<img src="/fig/RClone21.png" width=400px />
+<img src="../fig/RClone21.png" width=400px />
 
 ---
 # Configuring of Google Drive
 
-<img src="/fig/Rcloneconfig.png" width=400px />
+<img src="../fig/Rcloneconfig.png" width=400px />
 
 ~~~
 $ y
@@ -217,7 +219,7 @@ $ y
 
 -Do not configure as a team drive
 
-<img src="/fig/RClone20.png" width=600px />
+<img src="../fig/RClone20.png" width=600px />
 
 ~~~
 $ n
