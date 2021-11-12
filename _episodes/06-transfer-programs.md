@@ -2,10 +2,12 @@
 title: "Transfer Programs"
 teaching: 10
 exercises: 0
-question:
--
+questions:
+- "What are some of the most common/best transfer applications?"
 objectives:
--
+- "Be introduced to some of the basic data transfer applications used in research."
+keypoints:
+- "SFTP although common is not the best application for moving data and there exists other SSH versions and tools that will transfer larger data for you better."
 ---
 
 # $0.02 About Transfer Programs
