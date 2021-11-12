@@ -13,13 +13,14 @@ objectives:
 ---
 ### Transfering Files with Globus
 
-Visit www.globus.org and click "Login" at the top of the page. On the Globus login page, type in University of Hawaii. When you find it, click Continue.
+> Visit www.globus.org and click "Login" at the top of the page. On the Globus login page, type in University of Hawaii. When you find it, click Continue.
 
 <img src="../assets/img/globus_rclone/globus_and_rclone5.png" width=500px />
 
 # *Please Note
-- UH does not provide a Globus subscription for external collaborators 
-- Default settings may not include data sharing
+>  UH does not provide a Globus subscription for external collaborators 
+
+> Default settings may not include data sharing
 
 ---
 
