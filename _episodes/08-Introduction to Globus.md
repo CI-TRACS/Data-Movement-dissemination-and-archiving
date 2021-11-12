@@ -20,9 +20,14 @@ objectives:
 
 > Globus can use several different systems to move data
 > 'Laptop? HPC cluster? Cloud storage? Tape archive? Access them all using just a web browser.
+
 > Data stored at a different institution? At a supercomputing facility? All you need is your campus login'
+
 > Globus is a service that makes it easy to move, sync, and share large amounts of data.
+
 > Globus will manage file transfers, monitor performance, retry failures, recover from faults automatically when possible, and report the status of your data transfer.
+
+> Data transfer limitations of google drive
 
 <img src="../assets/img/globus_rclone/globus_and_rclone2.jpg" width=500px />
 
