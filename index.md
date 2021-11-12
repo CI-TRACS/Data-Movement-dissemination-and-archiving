@@ -4,7 +4,7 @@ root: .
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
 
-# CI-TRACS - Data Movement Workshop
+
 
 <img src="/Data-Movement-dissemination-and-archiving/assets/img/globus_rclone/globus_and_rclone0.png"/>
 <img src="/Data-Movement-dissemination-and-archiving/assets/img/globus_rclone/globus_and_rclone1.png"/>
