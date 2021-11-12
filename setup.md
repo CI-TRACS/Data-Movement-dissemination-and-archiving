@@ -3,10 +3,11 @@ title: Setup
 ---
 
 
-# Prerequistes
-This lesson requires a terminal application (bash, zsh, or others) with the ability to securely connect to a remote machine (ssh).
-
-To follow the instructions in the materials for moving data with Globus to the UH Mana HPC system an active Mana account is required to access the storage system and also to access the Data Transfer Nodes in order to use Rclone from open on demand or ssh.
+># Prerequistes
+>This lesson requires a terminal application (bash, zsh, or others) with the ability to securely connect to a remote machine (ssh).
+>
+>To follow the instructions in the materials for moving data with Globus to the UH Mana HPC system an active Mana account is required to access the storage system and also to access >the Data Transfer Nodes in order to use Rclone from open on demand or ssh.
+{: .prereq}
 
 # Required files
 
