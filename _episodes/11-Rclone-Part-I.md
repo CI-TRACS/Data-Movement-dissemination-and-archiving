@@ -115,7 +115,10 @@ $ n
 
 <span style="color:#595959">You'll be prompted for the name of the remote object storage system\, we use "rclone\-gdrive" in this tutorial</span>
 
-<span style="color:#595959">name> rclone\-gdrive</span>
+~~~
+$ rclone\-gdrive
+~~~
+{: .language-bash}
 
 <img src=",,/fig/RClone6.png" width=600px />
 
