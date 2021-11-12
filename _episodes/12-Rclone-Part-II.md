@@ -1,12 +1,14 @@
 ---
 title: "Transferring Files with Rclone"
-teaching: 1
-exercises: 2
+teaching: 15
+exercises: 15
 question:
 - "How do I move data from google drive to MANA?"
 - "How do I move data from MANA to google drive?"
 objectives:
 - "Move data to and from MANA and gdrive"
+keypoints:
+- 
 ---
 
 # Now we can list files from GDrive
@@ -17,7 +19,7 @@ $ rclone lsf rclone-gdrive:/
 ~~~
 {: .language-bash}
 
-<img src="/fig/Rclonesuccess.png" width=600px />
+<img src="../fig/Rclonesuccess.png" width=600px />
 
 ---
 
@@ -44,11 +46,11 @@ $ cd rclonefiles
 
 In google drive create a folder name it “rclonetest” 
 
-<img src="/fig/RCloneGD1.png" width=300px />
+<img src="../fig/RCloneGD1.png" width=300px />
 
 Within that folder create a new doc and call it “testfile”
 
-<img src="/fig/RCloneGD2.png" width=300px />
+<img src="../fig/RCloneGD2.png" width=300px />
 
 ---
 
@@ -77,7 +79,7 @@ $ cp testfile.docx testfile2.docx
 {: .language-bash}
 
 
-<img src="/fig/Rclonecp.png" width=300px />
+<img src="../fig/Rclonecp.png" width=300px />
 
 ‘cp’ is the copy command in the terminal/shell
 
@@ -99,7 +101,7 @@ $ rclone copy testfile2.docx rclone-gdrive:/rclonetest
 ---
 
 You can check GDrive and the file should appear!
-<img src="/fig/rclonetf.png" width=300px />
+<img src="../fig/rclonetf.png" width=300px />
 
 ---
 
