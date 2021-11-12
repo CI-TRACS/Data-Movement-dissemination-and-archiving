@@ -1,8 +1,8 @@
 ---
 title: "Introduction to Globus"
-teaching: 4
-exercises: 1
-question:
+teaching: 5
+exercises: 0
+questions:
 - "What does Globus do and how can I use it with my data?"
 objectives:
 - "Have a basic understanding of Globus and how to move data"
