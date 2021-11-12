@@ -1,12 +1,12 @@
 ---
 title: "Transferring Data"
-teaching: 1
-exercises: 1
-question:
-- "How do I move data from my machine to Globus?"
-- "How do I move data from Globus to my machine?"
+teaching: 10
+exercises: 5
+questions:
+- "How do I move data from my machine using Globus?"
+- "How do I move data tom my maching with Globus?"
 objectives:
-- "Move sample data from a repository to Globus, then to your computer to Globus"
+- "Move sample data from a repository using Globus, then to your computer using Globus"
 keypoints:
 - "A collection is a named location containing data you can access with Globus. "
 - "Collections can be hosted on many different kinds of systems."
@@ -24,9 +24,8 @@ The first time you use the File Manager, all fields will be blank.
 <img src="../assets/img/globus_rclone/globus_and_rclone11.png" width=500px />
 
 > ## Tip 
-
-> ### Key Concept: Collection
-> A collection is a named location containing data you can access with Globus. Collections can be hosted on many different kinds of systems, including campus storage, HPC clusters, laptops\, Amazon S3 bucket, Google Drive (these are “premium” connectors so seperate a subscription is required), and scientific instruments.
+> Key Concept: Collection
+> * A collection is a named location containing data you can access with Globus. Collections can be hosted on many different kinds of systems, including campus storage, HPC clusters, laptops, Amazon S3 bucket, Google Drive (these are “premium” connectors so seperate a subscription is required), and scientific instruments.
 {: .callout}
 
 When you use Globus, you don’t need to know a physical location or details about storage. You only need a collection name. A collection allows authorized Globus users to browse and transfer files. Collections can also be used for sharing data with others and for enabling discovery by other Globus users. [Globus Connect](https://www.globus.org/globus-connect) is used to host collections.

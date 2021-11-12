@@ -2,10 +2,13 @@
 title: "Processes and Queues"
 teaching: 10
 exercises: 0
-question:
--
+questions:
+- "What are Queues/Buffers?"
+- "How does data actually move from machine to machine?"
 objectives:
--
+- "Understand the processes involved in transfering data from one machine to another."
+keypoints:
+- "There are many processes in transfering data that can cause bottlenecks and degrade performance, the network is only one of many of those."
 ---
 
 # Queues (also known as buffers)

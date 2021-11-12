@@ -2,10 +2,15 @@
 title: "Introduction to Scientific Data Networks"
 teaching: 10
 exercises: 0
-question:
--
+questions:
+- "How do networks connect everything?"
+- "How is UH connected?"
 objectives:
--
+- "Provide groundwork for understanding how things are connected."
+keypoints:
+- "All retail marketing is gibberish"
+- "Hollywood movies are wrong about how things are connected"
+- "There are several internets" 
 ---
 
 
@@ -13,9 +18,9 @@ objectives:
 
 # Take This Away -- (if nothing else)
 
-Many people \(among them\, Sean and I\) are employed specifically to answer your questions and to help you move data effectively\.
+Many people (among them, Sean and I) are employed specifically to answer your questions and to help you move data effectively.
 
-We are interested in hearing about your experience\, any problem you may be having\, or discussing whether your data transfer solutions are meeting your needs
+We are interested in hearing about your experience\, any problem you may be having, or discussing whether your data transfer solutions are meeting your needs
 
 Expect _hundreds of Megabits per second_ of file transfer speed\. If you're not getting that\, ask us why not\.
 
@@ -26,8 +31,11 @@ Making data transfers perform well can be somewhat deep andcomplicated\, but it'
 >   * Cat6 is only capable of 4 times throughput over Cat5e (10G vs 2.5G)
 >   * This is an Ethernet cable, not an Audio/Video "streaming" cable
 > * Making the "10x" claim conflicts with the "speeds up to 1Gbps" claim.
+{: .callout}
 
-<img src="/fig/ep10.jpg" width=432px />
+{% include figure.html url=""
+   file="/fig/ep10.jpg" width=432px alt="" caption="" %}
+
 
 # How Stuff Connects Together
 
@@ -78,11 +86,11 @@ Making data transfers perform well can be somewhat deep andcomplicated\, but it'
 
 ## Commodity
 
-<img src="/fig/ep11.png" width=500px />
+{% include figure.html url="" file="/fig/ep11.png" width=500px alt="" caption="Commodity" %}
 
 ## REN Path
 
-<img src="../fig/ep12.png" width=500px />
+{% include figure.html url=""  file="/fig/ep12.png" width=500px alt="" caption="REN path" %}
 
 
-
+{% include links.md %}

@@ -14,9 +14,11 @@ SFTP, GridFTP, LFTP, rsync, Globus.
 
 
 ## Authors
-Sean Cleveland
-Alan Whinery
-Luke Nelson
+
+* Alan Whinery
+* Luke Nelson
+* Sean Cleveland (seanbc@hawaii.edu)
+
 A list of contributors to the lesson can be found in [AUTHORS](AUTHORS)
 
 ## Citation

@@ -11,7 +11,7 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Data Movement"
+title: "CI-TRACS - Data Movement Workshop"
 
 # Life cycle stage of the lesson
 # See this page for more details: https://cdh.carpentries.org/the-lesson-life-cycle.html
@@ -27,6 +27,7 @@ episode_order:
   - 05-tcp
   - 06-transfer-programs
   - 07-sci-transfer-examples
+  - 06b-transfer-scp-rsync
   - 08-Introduction-to-Globus
   - 09-Globus-Installation
   - 10-Transferring-Data-with-Globus

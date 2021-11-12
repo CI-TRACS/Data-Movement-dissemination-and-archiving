@@ -2,10 +2,12 @@
 title: "Data Transfer Evaluation Of The Network"
 teaching: 10
 exercises: 0
-question:
--
+questions:
+- "What are some tools we can use to test network throughput?"
 objectives:
--
+- "Learn about some of the tools for testing network performance."
+keypoints:
+- "Many times data transfer is impacted by factors other than the networks, but it helps to know how to test the network."
 ---
 
 # Network (Only) Evaluation

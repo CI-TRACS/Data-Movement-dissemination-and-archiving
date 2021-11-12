@@ -2,10 +2,12 @@
 title: "Transmission Control Protocol (TCP)"
 teaching: 10
 exercises: 0
-question:
--
+questions:
+- "What is TCP?"
 objectives:
--
+- "Get a basic understading of TCP and why it is."
+keypoints:
+- "Tuning TCP can have a large impact of transfer throughput."
 ---
 
 # Why TCP Acts As It Does
