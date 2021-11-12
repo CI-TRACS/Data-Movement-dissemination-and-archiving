@@ -1,12 +1,12 @@
 ---
 title: "Configuring and Using Rclone"
-teaching: 1
-exercises: 1
+teaching: 15
+exercises: 15
 question:
 - "How do I Configure Rclone?"
 objectives:
 - "Make Rclone ready for data transfer with gdrive"
-keypoins:
+keypoints:
 -
 ---
 
@@ -57,7 +57,7 @@ $ ssh luketn@hpc-dtn1.its.hawaii.edu
 ~~~
 {: .language-bash}
 
-<img src="../fig/RClone 1.png" width=600px />
+<img src="../fig/RClone1.png" width=600px />
 
 ---
 
@@ -80,7 +80,7 @@ $ 3
 {: .language-bash}
 
 
-<img src="../fig/Rclone 2.png" width=600px />
+<img src="../fig/Rclone2.png" width=600px />
 ---
 
 # Configuring Rclone
