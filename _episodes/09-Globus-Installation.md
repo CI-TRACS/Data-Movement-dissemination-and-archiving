@@ -2,14 +2,15 @@
 title: "Creating Globus Account/Install Globus Connect Personal Installation"
 teaching: 15
 exercises: 1
-question:
+questions:
 - "How do I create a Globus account using your UH credential?"
 - "How do I install Globus Connect Personal on my PC, Mac, Linux, or Unix?"
 objectives:
 - "Connect your UH account with Globus"
 - "Install Globus on to your system"
 keypoints:
-- "Prerequisite includes a dual factor authenticator for your UH ID"
+- "Prerequisite in order to use Globus with Mana includes a dual factor authenticator for your UH ID."
+- "Both systems to transfer data to and from must have Globus installed on them."
 ---
 ### Transfering Files with Globus
 
