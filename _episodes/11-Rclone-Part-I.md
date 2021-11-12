@@ -1,7 +1,7 @@
 ---
 title: "Configuring and Using Rclone"
-teaching: 15
-exercises: 15
+teaching: 1
+exercises: 1
 questions:
 - "How do I Configure Rclone?"
 objectives:
