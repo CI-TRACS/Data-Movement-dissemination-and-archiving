@@ -1,6 +1,6 @@
 ---
 title: "Transferring Data"
-teaching: 1
+teaching: 15
 exercises: 1
 questions:
 - "How do I move data from my machine to Globus?"
