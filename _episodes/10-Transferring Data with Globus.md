@@ -62,7 +62,8 @@ Globus will display a green notification panel—​confirming that the transfer
 
 <img src="../assets/img/globus_rclone/globus_and_rclone17.png" width=500px />
 
-Confirm Transfer CompletionOn the Activity page, click the arrow icon on the right to view details about the transfer. You will also receive an email with the transfer details.
+Confirm Transfer Completion
+- On the Activity page, click the arrow icon on the right to view details about the transfer. You will also receive an email with the transfer details.
 
 <img src="../assets/img/globus_rclone/globus_and_rclone18.png" width=500px />
 
