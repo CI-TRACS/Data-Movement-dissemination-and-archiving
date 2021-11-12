@@ -2,12 +2,12 @@
 title: "Configuring and Using Rclone"
 teaching: 15
 exercises: 15
-question:
+questions:
 - "How do I Configure Rclone?"
 objectives:
 - "Make Rclone ready for data transfer with gdrive"
 keypoints:
--
+- "Rclone must be configured on a server for your user before it can be used to transfere data."
 ---
 
 # Using Rclone
@@ -29,7 +29,7 @@ $ rclone
 ~~~
 {: .language-bash}
 
-# Configuring Rclon
+# Configuring Rclone
 
 Before you can use Rclone, you must configure it 
 This configuration step will set up access for the remote object storage system that you want to transfer data to and from
