@@ -120,10 +120,11 @@ $ rclone\-gdrive
 ~~~
 {: .language-bash}
 
-<img src="../fig/RClone6.png" width=600px />
 ---
 
 # Choosing a Storage Option
+
+<img src="../fig/RClone6.png" width=600px />
 
 ~~~
 $ 15
