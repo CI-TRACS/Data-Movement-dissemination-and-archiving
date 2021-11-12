@@ -8,7 +8,10 @@ questions:
 objectives:
 - "Move data to and from MANA and gdrive"
 keypoints:
-- 
+- "'lsf' is how to list file with Rclone"
+- "rclone copy is used to copy files"
+- "rclone synce can be used to sync files across two storage systems"
+- "nohup can be used for large rclone file transfers to ensure your ssh session will not disconnect a transfer"
 ---
 
 # Now we can list files from GDrive
