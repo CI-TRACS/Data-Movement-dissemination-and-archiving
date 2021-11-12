@@ -26,8 +26,8 @@ episode_order:
   - 04-processes-queues
   - 05-tcp
   - 06-transfer-programs
-  - 06b-transfer-scp-rsync
   - 07-sci-transfer-examples
+  - 06b-transfer-scp-rsync
   - 08-Introduction-to-Globus
   - 09-Globus-Installation
   - 10-Transferring-Data-with-Globus
