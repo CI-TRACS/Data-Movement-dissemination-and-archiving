@@ -13,7 +13,7 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 
 ## Presenters
 
-* Alan WhiCyberinfrastructure Training to Advance Climate Scienc nery - University of Hawaiʻi System - Chief Internet Engineer
+* Alan Whinery - University of Hawaiʻi System - Chief Internet Engineer
 * Luke Nelson - Hawaiʻi Data Science Institute Fellow
 * Sean Cleveland - University of Hawaiʻi System - Cyberinfrastructure Research Scientist
 
