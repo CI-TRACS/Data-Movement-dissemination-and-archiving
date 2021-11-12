@@ -131,14 +131,14 @@ $ 15
 ~~~
 {: .language-bash}
 
-<img src="../fig/RClone7.png" width=600px />
-
 - Choose #15, Google Drive as Storage Option
 ** See help for drive backend at: https://rclone\.org/drive/ **
 
 ---
 
 # Google Application Client Id
+
+<img src="../fig/RClone7.png" width=600px />
 
 *Setting your own is recommended, see https://rclone\.org/drive/\#making\-your\-own\-client\-id for how to create your own.
 - If you leave this blank, it will use an internal key which is low performance.
