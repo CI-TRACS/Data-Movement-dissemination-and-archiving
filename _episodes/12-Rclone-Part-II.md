@@ -148,11 +148,11 @@ The ‘>’ after the destination will direct any standard output to be written 
 
 More information about Rclone and Google Drive can be found here:
 
-https://rclone.org/drive/#limitations
+[https://rclone.org/drive/#limitations](https://rclone.org/drive/#limitations)
 
-You can download for your machine her https://rclone.org/downloads/
+You can download for your machine here [https://rclone.org/downloads/](https://rclone.org/downloads/)
 
-Note - there is an experimental GUI for your laptop/workstation https://rclone.org/gui/
+Note - there is an experimental GUI for your laptop/workstation [https://rclone.org/gui/](https://rclone.org/gui/)
 
 ### Questions?
 
