@@ -2,7 +2,7 @@
 title: "Transferring Files with Rclone"
 teaching: 15
 exercises: 15
-question:
+questions:
 - "How do I move data from google drive to MANA?"
 - "How do I move data from MANA to google drive?"
 objectives:
