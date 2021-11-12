@@ -3,10 +3,10 @@ title: "Transferring Data"
 teaching: 15
 exercises: 1
 questions:
-- "How do I move data from my machine to Globus?"
-- "How do I move data from Globus to my machine?"
+- "How do I move data from my machine using Globus?"
+- "How do I move data tom my maching with Globus?"
 objectives:
-- "Move sample data from a repository to Globus, then to your computer to Globus"
+- "Move sample data from a repository using Globus, then to your computer using Globus"
 keypoints:
 - "A collection is a named location containing data you can access with Globus. "
 - "Collections can be hosted on many different kinds of systems."
