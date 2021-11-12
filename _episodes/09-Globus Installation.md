@@ -28,7 +28,9 @@ objectives:
 
 <img src="../assets/img/globus_rclone/globus_and_rclone6.png" width=500px />
 
-> >  Some organizations will ask for your permission to release your account information to Globus. Once you’ve logged in with your UH credentials, Globus will ask if you’d like to link to an existing account. If this is your first time logging in to Globus, click "Continue." If you’ve already used another account with Globus, you can choose "Link to an existing account."
+> >  Some organizations will ask for your permission to release your account information to Globus. Once you’ve logged in with your UH credentials, Globus will ask if you’d like to link to an existing account. 
+> >  If this is your first time logging in to Globus, click "Continue." If you’ve already used another account with Globus, you can choose "Link to an existing account."
+
 ---
 
 <img src="../assets/img/globus_rclone/globus_and_rclone7.png" width=500px />
