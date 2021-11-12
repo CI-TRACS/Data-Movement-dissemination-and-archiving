@@ -28,20 +28,20 @@ objectives:
 
 <img src="../assets/img/globus_rclone/globus_and_rclone6.png" width=500px />
 
-- Some organizations will ask for your permission to release your account information to Globus. Once you’ve logged in with your UH credentials, Globus will ask if you’d like to link to an existing account. If this is your first time logging in to Globus, click "Continue." If you’ve already used another account with Globus, you can choose "Link to an existing account."
+> >  Some organizations will ask for your permission to release your account information to Globus. Once you’ve logged in with your UH credentials, Globus will ask if you’d like to link to an existing account. If this is your first time logging in to Globus, click "Continue." If you’ve already used another account with Globus, you can choose "Link to an existing account."
 ---
 
 <img src="../assets/img/globus_rclone/globus_and_rclone7.png" width=500px />
 
 ---
 
-- You may be prompted to provide additional information such as your organization and whether or not Globus will be used for commercial purposes. Click on non-profit research or educational purposes. Complete the form and click "Continue."
+> You may be prompted to provide additional information such as your organization and whether or not Globus will be used for commercial purposes. Click on non-profit research or educational purposes. Complete the form and click "Continue."
 
 <img src="../assets/img/globus_rclone/globus_and_rclone8.png" width=500px />
 
 ---
 
-- Finally, you need to give Globus permission to use your identity to access information and perform actions (like file transfers) on your behalf.
+>  Finally, you need to give Globus permission to use your identity to access information and perform actions (like file transfers) on your behalf.
 
 <img src="../assets/img/globus_rclone/globus_and_rclone9.png" width=500px />
 
