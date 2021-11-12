@@ -2,7 +2,7 @@
 title: "Transferring Data"
 teaching: 1
 exercises: 1
-question:
+questions:
 - "How do I move data from my machine to Globus?"
 - "How do I move data from Globus to my machine?"
 objectives:
