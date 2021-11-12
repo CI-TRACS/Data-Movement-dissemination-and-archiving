@@ -28,7 +28,7 @@ keypoints:
 
 <img src="../fig/ep26.png" width=500px />
 
-###Medium scale Juniper router, capable of supporting 10Gbps and 100Gbps interfaces for long distance links
+### Medium scale Juniper router, capable of supporting 10Gbps and 100Gbps interfaces for long distance links
 
 <img src="../fig/ep27.png" width=500px />
 
@@ -36,15 +36,15 @@ keypoints:
 
 <img src="../fig/ep28.jpg" width=500px />
 
-###Copper distribution in data center
+### Copper distribution in data center
 
 <img src="../fig/ep29.jpg" width=500px  />
 
-###A pair of glass fiber LC connectors, and the 10Gbps Ethernet card which connects to the fiber.
+### A pair of glass fiber LC connectors, and the 10Gbps Ethernet card which connects to the fiber.
 
 <img src="../fig/ep210.jpg" width=500px />
 
-###The infrared laser that transmits over the fiber is visible in the upper connector. The light is visible to my phone camera, but not to the naked eye.
+### The infrared laser that transmits over the fiber is visible in the upper connector. The light is visible to my phone camera, but not to the naked eye.
 
 <img src="../fig/ep211.jpg" width=500px />
 
