@@ -1,7 +1,7 @@
 ---
 title: "Creating Globus Account/Install Globus Connect Personal Installation"
 teaching: 15
-exercises: 1
+exercises: 5
 questions:
 - "How do I create a Globus account using your UH credential?"
 - "How do I install Globus Connect Personal on my PC, Mac, Linux, or Unix?"
