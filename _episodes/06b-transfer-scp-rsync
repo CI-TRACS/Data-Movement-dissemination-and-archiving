@@ -433,4 +433,8 @@ then provide a directory to compress:
 > back to Windows format, you can run `unix2dos filename`.)
 {: .callout}
 
+> Material used and modfied from the 
+> ["Introduction to High-Performance Computing" Incubator workshop](https://carpentries-incubator.github.io/hpc-intro/).
+{: .callout}
+
 {% include links.md %}
