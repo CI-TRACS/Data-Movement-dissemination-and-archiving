@@ -24,8 +24,8 @@ local:
 
 remote:
   name: "yourUsername"
-  login: "hpc-dtn01.its.hawaii.edu"
-  host: "hpc-dtn01"
+  login: "hpc-dtn1.its.hawaii.edu"
+  host: "hpc-dtn1"
   node: "compute-0001"
   location: "University of Hawaii"
   homedir: "/home"
