@@ -11,7 +11,7 @@ title: Setup
 
 # Required files
 
-We will donwload the globus connect personal installer during the workshop so no files will be required ahead of time.
+We will donwload the required files as part of the workshop exercises so no files will be required ahead of time.
 
 ---
 # Feedback during the workshop
