@@ -14,4 +14,4 @@ keypoints:
 
 <img src="/fig/ep70.png" width=100px />
 
-<img src="/fig/ep71.jpg" width=1000px />
+<img src="/fig/ep71.png" width=1000px />
