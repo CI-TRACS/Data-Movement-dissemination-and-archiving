@@ -27,8 +27,7 @@ keypoints:
 >  * May not tend to get better performance out of transfer paths with other problems
 >  * Authentication and licensing might present obstacles to use in ad-hoc workflows
 {: .callout}
-{% include figure.html url=""
-   file="/assets/img/globus_rclone/globus_and_rclone4.png" width=500px alt="" caption="" %}
+<img src ="/assets/img/globus_rclone/globus_and_rclone4.png" />
 
 > ## Lftp
 >  * Very versatile (Russian origin) program with features such as mirroring and parallel transfers
