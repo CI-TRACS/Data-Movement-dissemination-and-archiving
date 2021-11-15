@@ -29,16 +29,16 @@ keypoints:
 ### The same Quilt map with Internet2 links added
 <img src="../fig/ep24.jpg" width=500px />
 
-### NOAA NWave
+### NOAA NWave - U. Hawaii provides connectivity for Oahu NOAA activities to reach US mainland
 <img src="../fig/ep25.png" width=500px />
 
-### US Department of Energy ESNet
+### US Department of Energy ESNet - ESNet be part of various paths to and from UH, notably to DOE Labs and to CERN
 <img src="../fig/ep26.png" width=500px />
 
 ### Medium scale Juniper router, capable of supporting 10Gbps and 100Gbps interfaces for long distance links
 <img src="../fig/ep27.png" width=500px />
 
-###Fiber distribution in data center
+### Fiber distribution in data center
 <img src="../fig/ep28.jpg" width=500px />
 
 ### Copper distribution in data center
