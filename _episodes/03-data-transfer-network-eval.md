@@ -49,9 +49,7 @@ keypoints:
 
 [https://docs.perfsonar.net/install_options.html](https://docs.perfsonar.net/install_options.html)
 
-{% include figure.html url="" 
-   file="/fig/ep30.png" width=500px alt="" caption="" %}
-
+<img src="/fig/ep30.png" width=500px/>
 # LibreSpeedTest
 
 * [https://github.com/librespeed/speedtest](https://github.com/librespeed/speedtest)
@@ -67,9 +65,9 @@ keypoints:
 
 # LibreSpeedTest On A Home Network
 
-{% include figure.html url="" max-width="50%"
-   file="/fig/ep31.png" width=500px alt="" caption="" %}
 
+<img src="/fig/ep31.png" width=500px/>
+   
 # Ookla Speedtest (speedtest.net)
 
 * Allows you to test to many points around the world from a web browser\.
