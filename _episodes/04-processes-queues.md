@@ -20,22 +20,19 @@ Data waits in queues for a chance to be transmitted further
 > ## Queues are the reason that everything in the universe isn't stuck waiting for everything else.
 {: .callout}
 
-{% include figure.html url="" 
-   file="/fig/ep40.jpg" width=500px alt="" caption="Attribution: © Vulphere Wikimedia Commons CC BY 4.0 https://creativecommons.org/licenses/by/4.0/deed.en" %}
+<img src="/fig/ep40.jpg" width=500px alt="Attribution: © Vulphere Wikimedia Commons CC BY 4.0 https://creativecommons.org/licenses/by/4.0/deed.en"/>
 
-{% include figure.html url="" 
-   file="/fig/ep41.png" width=500px alt="" caption="" %}
+<img src="/fig/ep41.png" width=500px />
 
-{% include figure.html url="" 
-   file="/fig/ep42.png" width=500px alt="" caption="" %}
+<img src="/fig/ep42.png" width=500px />
 
-{% include figure.html url="" 
-   file="/fig/ep43.png" width=500px alt="" caption="" %}
+<img src="/fig/ep43.png" width=500px />
 
-{% include figure.html url="" 
-   file="/fig/ep44.png" width=500px alt="" caption="" %}
+<img src="/fig/ep43.png" width=500px />
 
-# A Salient Point
+<img src="/fig/ep44.png" width=500px />
+
+# Notable Points
 
 * Data moves by processes:
   * Enqueuing data
