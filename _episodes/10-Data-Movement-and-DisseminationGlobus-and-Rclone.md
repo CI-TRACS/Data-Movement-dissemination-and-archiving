@@ -32,5 +32,5 @@ Data stored at a different institution? At a supercomputing facility? All you ne
 
 HIDSI (Hawaii Institute for Data Science) 
 
-![NSF]([https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png](https://www.crwflags.com/fotw/images/u/us_nsf2.jpg))
+![NSF](https://www.crwflags.com/fotw/images/u/us_nsf2.jpg)
 ![NIH G-11 fellowship (G11UH)](https://datascience.hawaii.edu/wp-content/uploads/2018/03/logo_5.png)
