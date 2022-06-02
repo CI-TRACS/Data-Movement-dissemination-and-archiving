@@ -5,7 +5,7 @@ questions:
 - "What does Globus do and how can I use it with my data?"
 - "How does Rclone improve data movement and management?"
 
-![Globus1](https://avatars.githubusercontent.com/u/24937341?s=200&v=4)
+![RClone](https://avatars.githubusercontent.com/u/24937341?s=200&v=4)
 
 ---
 ### Objectives
@@ -31,8 +31,6 @@ Data stored at a different institution? At a supercomputing facility? All you ne
 ### Funding Acknowledgement
 
 HIDSI (Hawaii Institute for Data Science) 
-NIH G-11 fellowship (G11UH)
 
-![Globus1]([https://avatars.githubusercontent.com/u/24937341?s=200&v=4](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hawaii.edu%2Fits%2Fci%2Fci-partners%2F&psig=AOvVaw14NXcKwiESpQSMorTFNY8n&ust=1654282907792000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCJjl0Jy6j_gCFQAAAAAdAAAAABAD)![image](https://user-images.githubusercontent.com/90941454/171716120-ffa9a72b-03a0-4335-afbc-71157917adcb.png)
-)
 
+![NIH G-11 fellowship (G11UH)](https://datascience.hawaii.edu/wp-content/uploads/2018/03/logo_5.png)
