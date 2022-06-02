@@ -27,7 +27,7 @@ Globus can use several different systems to move data
 
 Data stored at a different institution? At a supercomputing facility? All you need is your campus login'
 
-
+---
 ### Funding Acknowledgement
 
 NIH G-11 fellowship (G11UH)
