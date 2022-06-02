@@ -30,7 +30,7 @@ Data stored at a different institution? At a supercomputing facility? All you ne
 
 ### Funding Acknowledgement
 
-HIDSI (Hawaii Institute for Data Science) 
+NIH G-11 fellowship (G11UH)
 
 ![NSF](https://www.crwflags.com/fotw/images/u/us_nsf2.jpg)
 ![NIH G-11 fellowship (G11UH)](https://datascience.hawaii.edu/wp-content/uploads/2018/03/logo_5.png)
