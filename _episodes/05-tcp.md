@@ -58,16 +58,18 @@ With no pacing, the 100 Gbps Ethernet interface sends packets in short bursts of
 Since our target rate is only 12 Gbps, we could distribute the packets more evenly, 
 and possibly avoid having bursts arrive at one or more queues along the path to the receiver.
 
-{% include figure.html url="" file="/fig/ep58.png" width=1000px alt="" caption="" %}
+{% include figure.html url="" file="/fig/ep58.png" width=500px alt="" caption="" %}
 <img src="/fig/ep58.png" width=500px />
-{% include figure.html url="" file="/fig/ep59.png" width=1000px alt="" caption="" %}
+{% include figure.html url="" file="/fig/ep59.png" width=500px alt="" caption="" %}
 <img src="/fig/ep59.png" width=500px />
 
 ## 4 streams, into a 12 Gbps disk system
 ### 3Gb per stream FQ pacing, 640 GB in 487 seconds
 Notice that when we pace packets at the sender to spread them out, the transfer is much smoother, and there are no more 
 TCP retransmissions
+{% include figure.html url="" file="/fig/ep510.png" width=500px alt="" caption="" %}
 <img src="/fig/ep510.png" width=500px />
+{% include figure.html url="" file="/fig/ep511.png" width=500px alt="" caption="" %}
 <img src="/fig/ep511.png" width=500px />
 
 > ## Other tuning
