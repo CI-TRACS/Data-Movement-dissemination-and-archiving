@@ -34,8 +34,7 @@ keypoints:
 >  * Very versatile (Russian origin) program with features such as mirroring and parallel transfers
 {: .callout}
 
-{% include figure.html url=""
 {% include figure.html url="" file="/fig/ep60.png" width=500 alt="" caption="" %}
-   file="/fig/ep60.png" width=500px alt="" caption="" %}
+   file="/Data-Movement-dissemination-and-archiving/fig/ep60.png" width=500px alt="" caption="" %}
 
 {% include links.md %}
