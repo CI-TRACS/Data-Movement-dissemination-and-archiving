@@ -19,8 +19,8 @@ Data waits in queues for a chance to be transmitted further
 
 > ## Queues are the reason that everything in the universe isn't stuck waiting for everything else.
 
-{% include figure.html url="" file="/fig/ep40.jpg" width=750px  %}
-<img src="/fig/ep40.jpg" width=750px />
+
+<img src="/Data-Movement-dissemination-and-archiving/fig/ep40.jpg" width=750px />
 (Attribution: © Vulphere Wikimedia Commons CC BY 4.0 https://creativecommons.org/licenses/by/4.0/deed.en)
 
 {% include figure.html url="" file="/fig/ep41.png" width=1000px alt="" caption="" %}
