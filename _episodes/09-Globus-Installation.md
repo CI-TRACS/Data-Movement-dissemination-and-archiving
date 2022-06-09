@@ -82,4 +82,4 @@ _[Globus Connect Personal for Windows](https://docs.globus.org/how-to/globus-con
 > Once you disconnect from it, you can launch the application again by clicking “command + space bar” keys on Mac machine or Windows key on Windows machine and typing “globus” to select the application to restart it.
 {: .callout}
 
-{% include links.md %}
+
