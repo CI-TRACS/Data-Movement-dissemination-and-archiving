@@ -27,6 +27,7 @@ keypoints:
 >  * May not tend to get better performance out of transfer paths with other problems
 >  * Authentication and licensing might present obstacles to use in ad-hoc workflows
 {: .callout}
+{% include figure.html url="" file="/assets/img/globus_rclone/globus_and_rclone4.png" width=500 alt="" caption="" %}
 <img src ="/assets/img/globus_rclone/globus_and_rclone4.png" />
 
 > ## Lftp
@@ -34,6 +35,7 @@ keypoints:
 {: .callout}
 
 {% include figure.html url=""
+{% include figure.html url="" file="/fig/ep60.png" width=500 alt="" caption="" %}
    file="/fig/ep60.png" width=500px alt="" caption="" %}
 
 {% include links.md %}
