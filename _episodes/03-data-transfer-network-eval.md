@@ -49,6 +49,7 @@ keypoints:
 
 [https://docs.perfsonar.net/install_options.html](https://docs.perfsonar.net/install_options.html)
 
+{% include figure.html url="" file="/fig/ep30.png" width=500px alt="" caption="" %}
 <img src="/fig/ep30.png" width=500px/>
 # LibreSpeedTest
 
@@ -65,7 +66,7 @@ keypoints:
 
 # LibreSpeedTest On A Home Network
 
-
+{% include figure.html url="" file="/fig/ep31.png" width=500px alt="" caption="" %}
 <img src="/fig/ep31.png" width=500px/>
    
 # Ookla Speedtest (speedtest.net)
