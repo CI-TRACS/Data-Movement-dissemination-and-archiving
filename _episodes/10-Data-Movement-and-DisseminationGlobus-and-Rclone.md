@@ -2,8 +2,8 @@
 Teaching: 2
 Exercises: 2
 questions:
-- "What does Globus do and how can I use it with my data?"
-- "How does Rclone improve data movement and management?"
+- What does Globus do and how can I use it with my data?
+- How does Rclone improve data movement and management?
 
 ![RClone](https://avatars.githubusercontent.com/u/24937341?s=200&v=4)
 
@@ -17,8 +17,8 @@ Explain how the Globus works and how to initialize an account.
 
 ---
 ### Key Points
-- "Globus is useful for transfering data to and from MANA at UH."
--  "Rclone is an open source, multi threaded, command line computer program to manage or migrate content on cloud and other high latency storage. Its capabilities    include sync, transfer, crypt, cache, union, and compress data"
+- Globus is useful for transfering data to and from MANA at UH.
+-  Rclone is an open source, multi threaded, command line computer program to manage or migrate content on cloud and other high latency storage. Its capabilities    include sync, transfer, crypt, cache, union, and compress data
 ---
 ### Background
 
