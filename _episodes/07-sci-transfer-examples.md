@@ -11,7 +11,7 @@ keypoints:
 ---
 
 # Proofs Of Concept
-
+{% include figure.html url="" file="/fig/ep70.png" width=1000px alt="" caption="" %}
 <img src="/fig/ep70.png" width=1000px />
-
+{% include figure.html url="" file="/fig/ep71.png" width=1000px alt="" caption="" %}
 <img src="/fig/ep71.png" width=1000px />
