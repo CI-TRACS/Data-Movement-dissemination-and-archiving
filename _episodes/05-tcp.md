@@ -12,17 +12,25 @@ keypoints:
 
 # Why TCP Acts As It Does
 
+{% include figure.html url="" file="/fig/ep51.png" width=1000px alt="" caption="" %}
 <img src="/fig/ep51.png" width=1000px a/>
 
+{% include figure.html url="" file="/fig/ep52.png" width=1000px alt="" caption="" %}
 <img src="/fig/ep52.png" width=1000px />
 
+{% include figure.html url="" file="/fig/ep53.png" width=1000px alt="" caption="" %}
 <img src="/fig/ep53.png" width=1000px />
 
+{% include figure.html url="" file="/fig/ep54.png" width=1000px alt="" caption="" %}
 <img src="/fig/ep54.png" width=1000px />
 
+{% include figure.html url="" file="/fig/ep55.png" width=1000px alt="" caption="" %}
 <img src="/fig/ep55.png" width=1000px />
 
+{% include figure.html url="" file="/fig/ep56.png" width=1000px alt="" caption="" %}
 <img src="/fig/ep56.png" width=1000px />
+
+{% include figure.html url="" file="/fig/ep57.png" width=1000px alt="" caption="" %}
 <img src="/fig/ep57.png" width=1000px />
 
 __https://blog.leiy.me/post/bw-throttling-on-mac/__
@@ -50,7 +58,9 @@ With no pacing, the 100 Gbps Ethernet interface sends packets in short bursts of
 Since our target rate is only 12 Gbps, we could distribute the packets more evenly, 
 and possibly avoid having bursts arrive at one or more queues along the path to the receiver.
 
+{% include figure.html url="" file="/fig/ep58.png" width=1000px alt="" caption="" %}
 <img src="/fig/ep58.png" width=500px />
+{% include figure.html url="" file="/fig/ep59.png" width=1000px alt="" caption="" %}
 <img src="/fig/ep59.png" width=500px />
 
 ## 4 streams, into a 12 Gbps disk system
@@ -92,7 +102,7 @@ Most transfers over 10 Gbps is using multiple connections
 
 Globus GridFTP opens on the order of several hundred connections at once.
 
-
+{% include figure.html url="" file="/fig/ep512.png" width=500px alt="" caption="" %}
 <img src="/fig/ep512.jpg" width=500px />
 (PUBLIC DOMAIN IMAGE: https://commons.wikimedia.org/wiki/File:Goodwood2007-121_The_Blue_Flame.jpg)
 
