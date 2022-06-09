@@ -104,7 +104,7 @@ Most transfers over 10 Gbps is using multiple connections
 
 Globus GridFTP opens on the order of several hundred connections at once.
 
-{% include figure.html url="" file="/fig/ep512.png" width=500px alt="" caption="" %}
+{% include figure.html url="" file="/fig/ep512.jpg" width=500px alt="" caption="" %}
 <img src="/fig/ep512.jpg" width=500px />
 (PUBLIC DOMAIN IMAGE: https://commons.wikimedia.org/wiki/File:Goodwood2007-121_The_Blue_Flame.jpg)
 
