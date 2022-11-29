@@ -22,9 +22,9 @@ Many people (among them, Sean and I) are employed specifically to answer your qu
 
 We are interested in hearing about your experience\, any problem you may be having, or discussing whether your data transfer solutions are meeting your needs
 
-Expect _hundreds of Megabits per second_ of file transfer speed\. If you're not getting that\, ask us why not\.
+Expect _hundreds of Megabits per second_ of file transfer speed from a wired connection, (wireless results will be more varied)\. If you're not getting that\, ask us why not\. 
 
-Making data transfers perform well can be somewhat deep andcomplicated\, but it's _not mysterious_
+Making data transfers perform well can be somewhat deep and complicated\, but it's _not mysterious_
 
 > ## (Pretty Much All) Retail Marketing Is Gibberish
 > * Buying a "faster" cable will not make your "streaming Internet" go faster
